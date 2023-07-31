@@ -61,3 +61,33 @@
   color: #fff;
   text-decoration: none;
 }
+
+/*Cambios*/
+.footer-ctn-contact{
+  background: #3C4349;
+}
+
+.footer-contact-logo{
+  width: 50%;
+  height: auto;
+}
+
+.footer-contact-section-title{
+  font-size: var(--txt-btn-xl);
+}
+
+.footer-contact-section-ul{
+  padding-left: 0;
+}
+
+.footer-ctn-contact{
+ gap: 15px;
+}
+
+.footer-ctn-contact-legal{
+  background: #162B32;
+  height: auto;
+}
+.footer-ctn-contact-legal-links{
+  margin: 20px 0;
+}

@@ -63,7 +63,7 @@ const HomeExperience360 = () => {
     ))
   );
 
-  return (
+  return ( 
     <div className="home-experience-360-ctn">
       <h5 className="home-experience-360-title">{listExperience?.title}</h5>
       <p className="home-experience-360-subtitle">{listExperience?.subtitle}</p>

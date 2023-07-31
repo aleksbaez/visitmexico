@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31734ea0.css",
-    "main.js": "/static/js/main.5f5a68af.js",
+    "main.css": "/static/css/main.bc39949f.css",
+    "main.js": "/static/js/main.dfd01892.js",
     "static/js/787.8f5b6e93.chunk.js": "/static/js/787.8f5b6e93.chunk.js",
     "static/media/Novios-Queretaro-4.webp": "/static/media/Novios-Queretaro-4.cccdeefa4aafa0dc8d80.webp",
     "static/media/GRO_acapulco_1317.webp": "/static/media/GRO_acapulco_1317.682ec4d5fa18a2ed9987.webp",
@@ -97,7 +97,7 @@
     "static/media/destinodelmescdmx.webp": "/static/media/destinodelmescdmx.b0d632bb76b770305a0c.webp",
     "static/media/DESTINODELMES.webp": "/static/media/DESTINODELMES.600b5cbf306fc590250a.webp",
     "static/media/SIN_las_glorias_25_11zon.webp": "/static/media/SIN_las_glorias_25_11zon.a3a7996288b4de3d7f3d.webp",
-    "static/media/liston-azul.webp": "/static/media/liston-azul.42b13fef95f62d9768ba.webp",
+    "static/media/liston-azul.webp": "/static/media/liston-azul.88f993e24dbef3f6d593.webp",
     "static/media/WhatsApp-Image-2023-07-27-at-1.06.03-AM.webp": "/static/media/WhatsApp-Image-2023-07-27-at-1.06.03-AM.4c0e43efc2f0bf44e8bd.webp",
     "static/media/NUEVOSNOMBRAMIENTOSPUEBLOSMAGICOS.webp": "/static/media/NUEVOSNOMBRAMIENTOSPUEBLOSMAGICOS.95afb23fc25f3c5bcafb.webp",
     "static/media/Papadzules5_11zon.webp": "/static/media/Papadzules5_11zon.a372658b77fa9a350ffa.webp",
@@ -115,16 +115,16 @@
     "static/media/OAX_costa_25_11zon.webp": "/static/media/OAX_costa_25_11zon.9b7f7971111af89e5ed7.webp",
     "static/media/Fondorosa.webp": "/static/media/Fondorosa.316093b34efb867653cd.webp",
     "static/media/Fondoamarrillo.webp": "/static/media/Fondoamarrillo.a910f292b9829c88d729.webp",
-    "static/media/tiktok.svg": "/static/media/tiktok.da103eb89b1e0fcfe6f717dfe319172a.svg",
+    "static/media/tiktok.svg": "/static/media/tiktok.2a257db6fb616c6c79678759cd06582c.svg",
     "index.html": "/index.html",
     "static/media/arrow-left.svg": "/static/media/arrow-left.9772b6e173756ba4db795408c2fa2864.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.b6e98fa626924960322f4c7550acbba4.svg",
-    "main.31734ea0.css.map": "/static/css/main.31734ea0.css.map",
-    "main.5f5a68af.js.map": "/static/js/main.5f5a68af.js.map",
+    "main.bc39949f.css.map": "/static/css/main.bc39949f.css.map",
+    "main.dfd01892.js.map": "/static/js/main.dfd01892.js.map",
     "787.8f5b6e93.chunk.js.map": "/static/js/787.8f5b6e93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31734ea0.css",
-    "static/js/main.5f5a68af.js"
+    "static/css/main.bc39949f.css",
+    "static/js/main.dfd01892.js"
   ]
 }

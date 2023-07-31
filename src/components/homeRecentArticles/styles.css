@@ -26,6 +26,7 @@
 .home-recent-articles-subtitle {
   font-size: var(--txt-p-xl);
   color: var(--gray);
+  text-align: justify;
 }
 
 .home-recent-articles-subtitle-button {
