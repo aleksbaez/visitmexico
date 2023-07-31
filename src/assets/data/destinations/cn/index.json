@@ -1,0 +1,1183 @@
+{
+    "titleState": "探索墨西哥各州的5个理由",
+    "states": [
+        {
+            "id": "Aguascalientes",
+            "urlVideoTop": "https://www.youtube.com/embed/g-nm1J-WXwU?&autoplay=1",
+            "titleTop": "阿瓜斯卡连特斯",
+            "descriptionTop": "阿瓜斯卡连特斯位于墨西哥共和国的中心。以其良好的土地、清澈的水、明亮的天空和友好的人民而闻名。",
+            "urlImg": "AGS_aguascalientes_464.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于阿瓜斯卡连特斯，请点击这里",
+                    "dir": "https://www.vivaaguascalientes.com/"
+                }
+            },
+            "titleBottom": "了解为何阿瓜斯卡连特斯应该在您的旅行清单上的5个理由。",
+            "descriptionBottom": [
+                {
+                    "text": "其四个组成阿瓜斯卡连特斯经典之旅的区：瓜达卢佩、圣马科斯、埃尔恩西诺和拉埃斯塔西翁。"
+                },
+                {
+                    "text": "拥有超过100年历史的铁路传统。"
+                },
+                {
+                    "text": "迷人的日落映衬着死亡之山。"
+                },
+                {
+                    "text": "温泉喷涌的地区，这也是该州得名的原因。"
+                },
+                {
+                    "text": "其手工艺品的拼花工艺。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1893491.9893227837!2d-102.354733!3d22.040928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8429ec143ae4d9fb%3A0x4016978679c5220!2sAguascalientes%2C%20Ags.!5e0!3m2!1ses-419!2smx!4v1683564992457!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3mUTPSE6VyhKTsxiyHUJ66?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/aguascalientes/indexweb.html",
+            "descriptionShort": "了解为何阿瓜斯卡连特斯应该在您的旅行清单上的5个理由。",
+            "desciptionHover": "了解更多关于阿瓜斯卡连特斯，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "BajaCalifornia",
+            "urlVideoTop": "https://www.youtube.com/embed/GLKLZeEgC24?autoplay=1",
+            "titleTop": "下加利福尼亚",
+            "descriptionTop": "被科尔特斯海和太平洋环绕，下加利福尼亚意味着一种特殊的体验：岛屿、海滩、沙漠、峡谷、山脉和休眠的火山伴随着旅程。",
+            "urlImg": "Vinedos4.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于下加利福尼亚，请点击这里",
+                    "dir": "https://bajacalifornia.travel/es/"
+                }
+            },
+            "titleBottom": "了解为何下加利福尼亚应该在您的旅行清单上的5个理由。",
+            "descriptionBottom": [
+                {
+                    "text": "因其美丽的海滩和令人惊叹的日落而永难忘怀。"
+                },
+                {
+                    "text": "以新鲜海产品闻名的美食。"
+                },
+                {
+                    "text": "提华纳因其战略位置和国际级服务，成为商务和医疗旅游的理想之地。"
+                },
+                {
+                    "text": "恩塞纳达是墨西哥最大的市镇，被太平洋和科尔特斯海环绕。其广阔的陆地和海洋上的动植物使其成为自然爱好者的吸引力所在。"
+                },
+                {
+                    "text": "墨西卡利因其“捕捉太阳的城市”而闻名。它位于科罗拉多河畔，靠近盐湖。这里提供墨西哥最丰富的中国美食和一些最好的牛排。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3526284.0084687793!2d-118.17094697813712!3d30.332849226145143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d7700ca877ddd3%3A0xfca4fd9f0318de8e!2sBaja%20California!5e0!3m2!1ses-419!2smx!4v1683570123340!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/bajacalifornia/indexweb.html",
+            "descriptionShort": "了解为何下加利福尼亚应该在您的旅行清单上的5个理由。",
+            "desciptionHover": "了解更多关于下加利福尼亚，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "BajaCaliforniaSur",
+            "urlVideoTop": "https://www.youtube.com/embed/vO_nZdwKXo0?autoplay=1",
+            "titleTop": "南加利福尼亚州",
+            "descriptionTop": "南加利福尼亚州被太平洋和科尔特斯海包围。这是一个充满对比的土地，也正是因此成为了它的主要吸引力。温暖的海滩，红树林，绿洲，神奇的村庄，沙漠植被，岩画等等。",
+            "urlImg": "BCS_cabo_san_lucas_113.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多南加利福尼亚州信息，请点击此处",
+                    "dir": "https://visitbajasur.travel/es/"
+                }
+            },
+            "titleBottom": "了解5个原因，为什么南加利福尼亚州应该在你的旅行列表上。",
+            "descriptionBottom": [
+                {
+                    "text": "独特的风景，与家人、伴侣或朋友一起享受。让你终身难忘的海滩和美丽的天空。"
+                },
+                {
+                    "text": "丰富的美食文化：龙虾、比目鱼、扇贝、蛤蜊和虾是你在这里品尝到的一些美味佳肴。"
+                },
+                {
+                    "text": "世界一流的酒店和餐厅设施，非常适合商务旅行。"
+                },
+                {
+                    "text": "适合家庭、冒险和商务旅行的旅游目的地，满足你的所有需求。"
+                },
+                {
+                    "text": "洛斯卡沃斯，蓝色的海洋天堂，好莱坞明星们不愿错过的地方。35公里长的旅游走廊，你可以找到最好的酒店、餐厅和各种有趣的活动。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690264.392816474!2d-114.9588129607235!3d25.41238054228561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd339b5a21ec9%3A0x71dfb33aa9a75918!2sBaja%20California%20Sur!5e0!3m2!1ses-419!2smx!4v1683570336851!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5hBLmRp1Qd73LjRoHpvcpG?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/bajacaliforniasur/indexweb.html",
+            "descriptionShort": "了解5个原因，为什么南加利福尼亚州应该在你的旅行列表上。",
+            "desciptionHover": "了解更多南加利福尼亚州信息，请点击此处",
+            "dir": "/destino"
+        },
+        {
+            "id": "Campeche",
+            "urlVideoTop": "https://www.youtube.com/embed/HvBIXBIGt3k?autoplay=1",
+            "titleTop": "坎佩切",
+            "descriptionTop": "坎佩切位于墨西哥东南部，是一个拥有丰富珍宝的州，其建筑和历史构成了我们的文化财富，赋予我们独特的身份。",
+            "urlImg": "CAM_calakmul53.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多坎佩切信息，请点击此处",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解5个原因，为什么坎佩切应该在你的旅行列表上。",
+            "descriptionBottom": [
+                {
+                    "text": "其独特的海滩，是家人、伴侣或朋友度过美好时光和难忘日落的绝佳地点。"
+                },
+                {
+                    "text": "拥有墨西哥最丰富的考古遗址之一，科拉克穆尔古玛雅城和受联合国教科文组织认可的热带森林。"
+                },
+                {
+                    "text": "坎佩切的首府圣弗朗西斯科·德·坎佩切是一座被联合国教科文组织认定为世界文化遗产的城市。"
+                },
+                {
+                    "text": "坎佩切有很多海产品，广受人们喜爱。印地安玉米煎饼、馅饼、玉米糕、玉米煎饼、传统碳烤牛肉或美式牛肉等都是它的瑰宝。"
+                },
+                {
+                    "text": "寻找婚礼举办地？在坎佩切，你将拥有一场难忘的婚礼，如同电影般的浪漫场面。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/campeche/indexweb.html",
+            "descriptionShort": "了解5个原因，为什么坎佩切应该在你的旅行列表上。",
+            "desciptionHover": "了解更多坎佩切信息，请点击此处",
+            "dir": "/destino"
+        },
+        {
+            "id": "Chiapas",
+            "urlVideoTop": "https://www.youtube.com/embed/KeQ___kEs2Q?autoplay=1",
+            "titleTop": "恰帕斯",
+            "descriptionTop": "恰帕斯是一个感官之地：感受咖啡的深厚香气，品尝芒果的甜蜜，看着丛林中一群鸚鵡，听着水流不息，感受传统纺织品的细腻。",
+            "urlImg": "Chiapas-agua_azul-01.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多恰帕斯信息，请点击此处",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解5个原因，为什么恰帕斯应该在你的旅行列表上。",
+            "descriptionBottom": [
+                {
+                    "text": "恰帕斯是墨西哥多样文化的所在地，是托佐特尔人、索克斯人、查莫拉人、特尔塔尔人和拉坎多人的发源地。"
+                },
+                {
+                    "text": "恰帕斯是墨西哥三个生物多样性最丰富的州之一，与瓦哈卡和韦拉克鲁斯一起。"
+                },
+                {
+                    "text": "吞斯特古铁雷斯，起源于索克斯人的一个小村庄，其名称被纳瓦语族的人翻译为托切特兰（兔子之地）。"
+                },
+                {
+                    "text": "圣克里斯托瓦尔-拉斯卡萨斯，这个美丽的“魔术之镇”拥有宜人的气候和丰富的文化。"
+                },
+                {
+                    "text": "科米坦·德·多米涅格兹，拥有古老的印第安人定居点，是由多明我教士于西班牙人抵达该地区后不久建立的。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1961119.1179261617!2d-93.57467866521142!3d16.255834972286834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x858d44b49757ce67%3A0xcf0033824619d615!2sChiapas!5e0!3m2!1ses-419!2smx!4v1687396192993!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/29d3FB7sl4FglZV1p3IXAs?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/chiapas/indexweb.html",
+            "descriptionShort": "了解5个原因，为什么恰帕斯应该在你的旅行列表上。",
+            "desciptionHover": "了解更多恰帕斯信息，请点击此处",
+            "dir": "/destino"
+        },
+        {
+            "id": "Chihuahua",
+            "urlVideoTop": "https://www.youtube.com/embed/2XtTWy50hjc?autoplay=1",
+            "titleTop": "奇瓦瓦",
+            "descriptionTop": "奇瓦瓦位于墨西哥的北部，是墨西哥最大的州，以其庞大的面积而闻名，其面积甚至大到足以容纳英格兰。奇瓦瓦令人惊叹的多样的生态系统、美食和文化令人印象深刻。",
+            "urlImg": "Chihuahua-barrancaschepe_02.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多奇瓦瓦信息，请点击此处",
+                    "dir": "https://visitachihuahua.com/"
+                }
+            },
+            "titleBottom": "了解5个原因，为什么奇瓦瓦应该在你的旅行列表上。",
+            "descriptionBottom": [
+                {
+                    "text": "搭乘Chepe火车穿越隧道，欣赏墨西哥最美的山地风景。"
+                },
+                {
+                    "text": "其传统美食包括干辣椒牛肉、马加肉和奶酪搭配辣椒，过期辣椒牛肉或奶酪搭配肉酱，小麦面饼，传统烧烤牛肉或美式牛排，以及美味的新鲜蔬菜。"
+                },
+                {
+                    "text": "在Bacajípare和Huetosachi的村庄，你将有机会与当地人一起准备并分享美食，以及在他们的小径上漫步。"
+                },
+                {
+                    "text": "克里尔，这个魔法小镇是一个充满历史和传统的旅游目的地。周围绿树成荫，鼓舞人心的冒险精神。"
+                },
+                {
+                    "text": "Casas grandes，这个奇瓦瓦州的魔法小镇因其与帕奎梅考古遗址的接近而得名。1535年，阿尔瓦尔·努涅斯·卡韦萨·德·瓦卡在他的回忆录中记录说，北部有“很多人口众多的村庄和非常大的房屋”。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7169267.155057151!2d-111.33806860448709!3d28.671132722547366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.!5e0!3m2!1ses-419!2smx!4v1684020195953!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4L5pHmiC38UtKVz6Eh3EUe?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/chihuahua/indexweb.html",
+            "descriptionShort": "了解5个原因 为什么奇瓦瓦应该在你的旅行列表上。",
+            "desciptionHover": "了解更多奇瓦瓦信息，请点击此处",
+            "dir": "/destino"
+        },
+        {
+            "id": "CiudadDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/YxvMmtDxEQQ?autoplay=1",
+            "titleTop": "墨西哥城",
+            "descriptionTop": "墨西哥城被誉为美洲文化之都，是世界上最丰富、最迷人的目的地之一，不仅拥有最多博物馆之一，还融合了历史遗产和丰富多样的美食，受到美食爱好者的高度赞誉。",
+            "urlImg": "CiudaddeMexico_Portada.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多墨西哥城信息",
+                    "dir": "https://mexicocity.cdmx.gob.mx/"
+                }
+            },
+            "titleBottom": "了解为何墨西哥城应在您的旅行清单中。",
+            "descriptionBottom": [
+                {
+                    "text": "墨西哥城被誉为美洲文化之都，是世界上最丰富、最迷人的目的地之一，不仅拥有最多博物馆之一，还融合了历史遗产和丰富多样的美食，受到美食爱好者的高度赞誉。"
+                },
+                {
+                    "text": "墨西哥城是拉丁美洲最重要的文化、体育和艺术节之中心。"
+                },
+                {
+                    "text": "选择墨西哥城作为您的旅行目的地，您将享受到充满魔力、习俗和伟大传统的文化根源，这个城市交织着大都会与充满生机的绿地。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d963456.3369006228!2d-99.143613!3d19.390734!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0026db097507%3A0x54061076265ee841!2sCiudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1687384235747!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2CoCTWNwmcDsTMPxG4CmMP?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/cdmx/indexweb.html",
+            "descriptionShort": "了解为何墨西哥城应在您的旅行清单中。",
+            "desciptionHover": "点击此处了解更多墨西哥城信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Coahuila",
+            "urlVideoTop": "https://www.youtube.com/embed/B2MN00vAz7A?autoplay=1",
+            "titleTop": "科阿韦拉州",
+            "descriptionTop": "科阿韦拉州以其标志性的城市、23个葡萄酒庄、丰富的古生物学、无与伦比的美食和七个魔法之乡而闻名。",
+            "urlImg": "COAH_2_dunas_bilbao_22.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多科阿韦拉州信息",
+                    "dir": "https://hazturismoencoahuila.mx/"
+                }
+            },
+            "titleBottom": "了解为何科阿韦拉州应在您的旅行清单中。",
+            "descriptionBottom": [
+                {
+                    "text": "令人惊叹的风景，梦幻般的体验，其中包括您将永远不会忘记的城市和魔法之乡。"
+                },
+                {
+                    "text": "科阿韦拉州的传统烹饪艺术对于肉类爱好者来说是一种美味的享受。红肉、多汁、切割精细的肉类是其主要特色，主要以小羊肉、牛肉和牛犊肉为基础，当然也不能忽略美味的猪肉和猪皮。"
+                },
+                {
+                    "text": "因其文化而闻名，科阿韦拉州的族群包括蛮族和基卡普斯族等。"
+                },
+                {
+                    "text": "葡萄酒之旅包括两个魔法之乡和科阿韦拉州提供的一系列自然奇观。此外，您还有机会品尝该地区生产的最佳葡萄酒。"
+                },
+                {
+                    "text": "了解阿尔特阿加的魔法之乡，这是科阿韦拉州主要的吸引力之一，位于巨大的阿尔特阿加山脉内，因其拥有“墨西哥的瑞士”之称而闻名。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3634211.9932014607!2d-104.54166938217044!3d27.186632026650457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868872bda68e1e29%3A0x64009ad714cd7a39!2sCoahuila%20de%20Zaragoza!5e0!3m2!1ses-419!2smx!4v1683577952331!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4s1i0CJ2n3C5LCtuvwmCEg?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/coahuila/indexweb.html",
+            "descriptionShort": "了解为何科阿韦拉州应在您的旅行清单中。",
+            "desciptionHover": "点击此处了解更多科阿韦拉州信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Colima",
+            "urlVideoTop": "https://www.youtube.com/embed/XBor7DZahQA?autoplay=1",
+            "titleTop": "科利马州",
+            "descriptionTop": "科利马州位于墨西哥西部，为您提供从海岸到山区的各种体验，从传统美食到创新美食应有尽有；这里应有尽有。",
+            "urlImg": "colimacomala.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多科利马州信息",
+                    "dir": "https://turismo.col.gob.mx/"
+                }
+            },
+            "titleBottom": "了解为何科利马州应在您的旅行清单中。",
+            "descriptionBottom": [
+                {
+                    "text": "享受迷人的日落，无论是在山区还是在海滩上。"
+                },
+                {
+                    "text": "首府是美丽的城市，以其不同的建筑风格而闻名，保留着文化的独特性。"
+                },
+                {
+                    "text": "科利马州的美食拥有海鲜味道，以红鱼为主要食材，主要用香蕉叶包裹的形式烹饪。"
+                },
+                {
+                    "text": "皇家-帕斯夸莱斯-特科曼旅游走廊，因其冲浪比赛而在国际上闻名。"
+                },
+                {
+                    "text": "圣加布里埃尔洞穴深不可测，高达50米以上，自然界的杰作。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60271.55528058169!2d-103.76980724936448!3d19.24004309147311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842545523455a217%3A0xb6b497fc5af555e6!2sColima%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1683578149738!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4zNvTHKW4UCpARzea4OaTb?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/colima/indexweb.html",
+            "descriptionShort": "了解为何科利马州应在您的旅行清单中。",
+            "desciptionHover": "点击此处了解更多科利马州信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Durango",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
+            "titleTop": "杜兰戈州",
+            "descriptionTop": "杜兰戈州是一个值得享受、探索和生活的州，被认为是墨西哥最重要的森林保护区。其独特的殖民建筑是丰富故事、传说和文化的源泉，还有悠久的电影传统。",
+            "urlImg": "DGO_Cd_Durango_34.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多杜兰戈州信息",
+                    "dir": "http://visitdurango.mx/#!/"
+                }
+            },
+            "titleBottom": "了解为何杜兰戈州应在您的旅行清单中。",
+            "descriptionBottom": [
+                {
+                    "text": "杜兰戈州的传统和习俗之一是在二月和三月的星期三前庆祝的狂欢节。这包括化装、舞蹈和游行。"
+                },
+                {
+                    "text": "其丰富多样的美食中，特别值得一提的是其热炖、山羊肉、烧烤、辣酱蒸煮玉米面包等。"
+                },
+                {
+                    "text": "Mapimí是杜兰戈州第一个魔法之乡。自2010年起，它就是联合国教科文组织“墨西哥大陆之路”的一部分。"
+                },
+                {
+                    "text": "圣何塞城是该州最古老的城市，于1563年作为西班牙人的村庄成立（之前曾是一个方济各会的传教所）。"
+                },
+                {
+                    "text": "静音区是一个充满神秘和传说的地方。这是一个无线电信号无法到达且指南针失灵的沙漠地区。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58307.79812547615!2d-104.68892432215172!3d24.022692792116143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e0!3m2!1ses-419!2smx!4v1683578320871!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/41U1BZKUs84ZFqyQXl70F3?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/durango/indexweb.html",
+            "descriptionShort": "了解为何杜兰戈州应在您的旅行清单中。",
+            "desciptionHover": "点击此处了解更多杜兰戈州信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "EstadoDeMexico",
+            "urlVideoTop": "https://www.youtube.com/embed/Pydx7Hk0rM0?autoplay=1",
+            "titleTop": "墨西哥州",
+            "descriptionTop": "墨西哥州位于墨西哥的心脏地带，提供丰富多样的目的地和吸引力，包括10个魔法之乡、23个迷人小镇和四个被联合国教科文组织列为世界遗产的地点。",
+            "urlImg": "EDOMEX-cosmovitral_02.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多墨西哥州信息",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解为何墨西哥州应在您的旅行清单中。",
+            "descriptionBottom": [
+                {
+                    "text": "由于其丰富的文化遗产，墨西哥州是马萨瓦、奥托米、马特拉辛卡、特拉惠卡和纳瓦蒂诺等人的故乡，这些民族继承了其文化和传统。"
+                },
+                {
+                    "text": "墨西哥州的一些典型菜肴包括串烧、托拉科、馅饼、蘑菇玉米饼和青豆酱火鸡等。"
+                },
+                {
+                    "text": "您想去一个充满美丽风景、气候温暖且有着悠久史前遗产的地方吗？那么马利纳尔科会让您着迷。"
+                },
+                {
+                    "text": "墨西哥州广阔美丽的开阔空间非常适合“豪华露营”，即豪华露营。"
+                },
+                {
+                    "text": "在梅特佩克，现代与传统交汇，这个市镇拥有墨西哥最具代表性的手工艺品之一：生命之树。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/3Y9UIF04sHDT6LTDqm9n2w?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/edomex/indexweb.html",
+            "descriptionShort": "了解为何墨西哥州应在您的旅行清单中。",
+            "desciptionHover": "点击此处了解更多墨西哥州信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Guanajuato",
+            "urlVideoTop": "https://www.youtube.com/embed/OGVe3g3iCVI?autoplay=1",
+            "titleTop": "Guanajuato",
+            "descriptionTop": "由于其六个神奇的小镇、两个遗产城市和五个考古遗址等多样化的吸引力，瓜纳华托是墨西哥最重要的殖民地旅游目的地。",
+            "urlImg": "GTO_guanajuato_338.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多关于瓜纳华托",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解为何瓜纳华托必须在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "瓜纳华托州象征着艺术与文化，是著名的瓜纳华托国际电影节和塞万提斯节的举办地。"
+                },
+                {
+                    "text": "食物中使用了本地特有的原料，使每道菜都有独特的风味。"
+                },
+                {
+                    "text": "杜洛雷斯·希达尔戈是该州第一个神奇小镇，它是墨西哥独立运动的起源地，也是墨西哥最伟大的流行音乐作曲家何塞·阿尔弗雷多·希梅内斯的出生地。"
+                },
+                {
+                    "text": "瓜纳华托州是银之路的所在地，你可以参观古老的矿山。"
+                },
+                {
+                    "text": "瓜纳华托州是寻求商务和休闲相结合的理想目的地，为会议和大会提供娱乐和放松的选择。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/guanajuato/indexweb.html",
+            "descriptionShort": "了解为何瓜纳华托必须在你的旅行清单上的5个原因。",
+            "desciptionHover": "点击此处了解更多关于瓜纳华托",
+            "dir": "/destino"
+        },
+        {
+            "id": "Guerrero",
+            "urlVideoTop": "https://www.youtube.com/embed/qcx9vIc0m98?autoplay=1",
+            "titleTop": "Guerrero",
+            "descriptionTop": "格雷罗州位于墨西哥南部，拥有大量的旅游资源，包括天堂般的海滩、壮观的山脉和梦幻般的风景。这是一片美丽、令人惊叹的土地。",
+            "urlImg": "GRO_acapulco_1317.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多关于格雷罗州",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解为何格雷罗州必须在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "阿卡普尔科是经典的海滩目的地，提供2万个酒店客房和多种美食和娱乐活动，非常适合家庭旅行。"
+                },
+                {
+                    "text": "伊斯塔帕，齐瓦塔内霍是由一个传统的渔村和美丽的海滩组成的组合，充满了墨西哥的风情，再加上一个发展区，有大型度假酒店和许多与自然相关的活动。"
+                },
+                {
+                    "text": "阿拉孔的塔斯科是一个光彩夺目的神奇小镇，因其几十年来生产和销售的银而闻名。"
+                },
+                {
+                    "text": "这里的美食包括古代食谱，不要错过红色、绿色、翠绿、huaxmole酱、玉米饼、memelas、chalupas以及令人惊叹的白色和绿色的波索莱汤。"
+                },
+                {
+                    "text": "格雷罗州因其众多民间手工艺品而享有国际声誉，这些手工艺品因其独特的民族特色和无与伦比的美丽而受到赞誉。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/guerrero/indexweb.html",
+            "descriptionShort": "了解为何格雷罗州必须在你的旅行清单上的5个原因。",
+            "desciptionHover": "点击此处了解更多关于格雷罗州",
+            "dir": "/destino"
+        },
+        {
+            "id": "Hidalgo",
+            "urlVideoTop": "https://www.youtube.com/embed/We4c0RjDGX4?autoplay=1",
+            "titleTop": "Hidalgo",
+            "descriptionTop": "修道院、庄园、矿山、冒险、文化和传统构成了伊达尔戈州的旅游财富，这里的氛围传达了千年文化在这片土地上的价值。",
+            "urlImg": "Hgo_tula_003.webp",
+            "actions": {
+                "button": {
+                    "text": "点击此处了解更多关于伊达尔戈州",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解为何伊达尔戈州必须在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "让你惊讶的美食，种类繁多而且美味，从全国最好的烤肉到蚂蚁蛋和chinicuiles。"
+                },
+                {
+                    "text": "品尝诸神之饮：酒精饮料龙舌兰，一种源自麦格植物的饮料，起源于古代。"
+                },
+                {
+                    "text": "齐梅帕拉以其美丽的庄园闻名。此外，该市还因其优秀的传统美食而获得了美食之乡的称号。"
+                },
+                {
+                    "text": "Mineral del Chico是墨西哥的第一个自然保护区，目前被视为冒险旅游的圣地。"
+                },
+                {
+                    "text": "伊达尔戈州的财富包括各种历史、文化、建筑和自然场景，为电影制片提供了拍摄场所。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512730.705677566!2d-124.59084255708773!3d37.151646373370205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20EE.%20UU.!5e0!3m2!1ses-419!2smx!4v1682217912140!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/41Id1RtpdXLICwdGCs848s?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/hidalgo/indexweb.html",
+            "descriptionShort": "了解为何伊达尔戈州必须在你的旅行清单上的5个原因。",
+            "desciptionHover": "点击此处了解更多关于伊达尔戈州",
+            "dir": "/destino"
+        },
+        {
+            "id": "Jalisco",
+            "urlVideoTop": "https://www.youtube.com/embed/N7MmjzREtig?autoplay=1",
+            "titleTop": "贾利斯科",
+            "descriptionTop": "墨西哥西部的贾利斯科，是墨西哥在世界上最具代表性的大使之一——马里亚奇和龙舌兰酒的故乡。据说它的125个市镇都是这个美妙拼图中极具价值的一部分。",
+            "urlImg": "Jalisco.webp",
+            "actions": {
+                "button": {
+                    "text": "点击这里了解更多关于贾利斯科的信息",
+                    "dir": "https://visitjalisco.mx/"
+                }
+            },
+            "titleBottom": "了解贾利斯科的5个原因，为什么它应该在你的旅行清单上。",
+            "descriptionBottom": [
+                {
+                    "text": "瓜达拉哈拉，其首府，是一座完美地融合传统与现代的城市。"
+                },
+                {
+                    "text": "其美食会使你陶醉，其中有许多著名的菜肴，如煮肉、浸泡三明治、烤肉、塔帕提奥式玉米粥等等。"
+                },
+                {
+                    "text": "阳光、沙滩以及丰富的生态旅游活动，这些目的地足以让你在国家最美丽的海岸上享受愉快的时光。"
+                },
+                {
+                    "text": "普尔托·巴亚尔塔拥有被塞拉·马德雷山脉环抱的美丽自然海滩。"
+                },
+                {
+                    "text": "它是龙舌兰的故乡，龙舌兰是一种在世界上最受欢迎的酒精饮品之一，也是我国的文化象征。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909231.479256641!2d-104.9222329384955!3d20.83300941682906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x841f40ebd4624e6f%3A0xa0feb0a35a1b4a53!2sJalisco!5e0!3m2!1ses-419!2smx!4v1683578423258!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/5ApmWMTZktBXbvPeD5UdXl?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/jalisco/indexweb.html",
+            "descriptionShort": "了解贾利斯科的5个原因，为什么它应该在你的旅行清单上。",
+            "desciptionHover": "点击这里了解更多关于贾利斯科的信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Michoacan",
+            "urlVideoTop": "https://www.youtube.com/embed/nbfvea4Bt0k?autoplay=1",
+            "titleTop": "墨西哥",
+            "descriptionTop": "密西奥拉坎位于墨西哥中西部。该州最大的城市是首府莫雷利亚，帕茨夸罗和乌鲁潘，借助广泛的交通基础设施，如机场、陆路交通和入境旅游运营商，与世界各地相连接，方便来自世界各地的游客抵达。",
+            "urlImg": "MICH_patzcuaro_63.webp",
+            "actions": {
+                "button": {
+                    "text": "点击这里了解更多关于密西奥拉坎的信息",
+                    "dir": "https://michoacan.travel/"
+                }
+            },
+            "titleBottom": "了解密西奥拉坎的5个原因，为什么它应该在你的旅行清单上。",
+            "descriptionBottom": [
+                {
+                    "text": "在密西奥拉坎，围绕死亡的仪式更加多彩，特别是在帕茨夸罗、辛齐茹恩坦、哈尼梯索、哈拉库亚罗、伊瓦斯伊奥和茨鲁鲁梅塔罗等地区。"
+                },
+                {
+                    "text": "它是墨西哥湖泊、森林和其他自然美景最丰富的州之一，例如蝴蝶山脉、帕里库蒂尼火山、爱德华·鲁伊兹国家公园、卡梅夸罗湖国家公园等。"
+                },
+                {
+                    "text": "它的美食就像墨西哥本土最具代表性的一样丰富多样，其中包括鲨鱼、鲨鱼、鲷鱼、对虾和牡蛎等主要成分，你想尝试一下吗？"
+                },
+                {
+                    "text": "有六个圣所可以参观蝴蝶。这个物种提供了自然界最奇特的表演之一。"
+                },
+                {
+                    "text": "了解海岸的西拉，那里有多种海龟和各种冷水或温泉温泉。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1929744.9946309759!2d-103.21985596445734!3d19.150024291328236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842a5f3e1eb35cb7%3A0x3bc7650cf34be0d4!2sMichoac%C3%A1n!5e0!3m2!1ses-419!2smx!4v1683578604854!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/michoacan/indexweb.html",
+            "descriptionShort": "了解密西奥拉坎的5个原因，为什么它应该在你的旅行清单上。",
+            "desciptionHover": "点击这里了解更多关于密西奥拉坎的信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Morelos",
+            "urlVideoTop": "https://www.youtube.com/embed/6rqT90hF-HM?autoplay=1",
+            "titleTop": "莫雷洛斯",
+            "descriptionTop": "莫雷洛斯是一个拥有无与伦比文化丰富性的州，位于墨西哥中南部。其文化涵盖了各种方面，每一个方面都带有独特的特色，无疑会让你想要更多。",
+            "urlImg": "MOR_axochiapan_t_164.webp",
+            "actions": {
+                "button": {
+                    "text": "点击这里了解更多关于莫雷洛斯的信息",
+                    "dir": "https://visitmorelos.mx/"
+                }
+            },
+            "titleBottom": "了解莫雷洛斯的5个原因，为什么它应该在你的旅行清单上。",
+            "descriptionBottom": [
+                {
+                    "text": "莫雷洛斯是传统，是活生生的历史，通过庄园和博物馆了解它的过去，了解将军埃米利亚诺·萨帕塔的故乡。"
+                },
+                {
+                    "text": "莫雷洛斯是一个充满美食和未知传统的世界，准备在你的访问期间去探索，从著名的耶卡皮斯特拉牛肉到象征性的装甲玉米卷，这些只有在该州才能找到。"
+                },
+                {
+                    "text": "了解它的首府库尔纳瓦卡，这个永恒的春天之城。充满自然和文化的地方。"
+                },
+                {
+                    "text": "蒂波兹特兰，被泰波兹特科山包围的魔法小镇，是一个充满神秘主义、手工艺品、宜人气候和放松的地方，但最重要的是充满了好的氛围和活力。"
+                },
+                {
+                    "text": "蒂拉亚卡潘，是一个少数几个保留了大部分古代城市规划的魔法小镇之一。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483646.40127353213!2d-99.39332388044409!3d18.731748998143765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cddfae25f6fe47%3A0x975f8225a169dd0f!2sMorelos!5e0!3m2!1ses-419!2smx!4v1683578712156!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/2yaOANtCx9FabUjU7tx998?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/morelos/indexweb.html",
+            "descriptionShort": "了解莫雷洛斯的5个原因，为什么它应该在你的旅行清单上。",
+            "desciptionHover": "点击这里了解更多关于莫雷洛斯的信息",
+            "dir": "/destino"
+        },
+        {
+            "id": "Nayarit",
+            "urlVideoTop": "https://www.youtube.com/embed/vSV--a4sQa8?autoplay=1",
+            "titleTop": "纳亚里特",
+            "descriptionTop": "纳亚里特位于墨西哥东北部。这个神奇的地方拥有丰富多样性，包括湖泊、丛林、海洋和该国最广阔的山脉之一。",
+            "urlImg": "NAY_RinconDeGuayabitos_Playas_0529.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于纳亚里特的信息，请点击这里",
+                    "dir": "https://descubrevallenayarit.com/"
+                }
+            },
+            "titleBottom": "了解为什么纳亚里特应该在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "所有路线都旨在让你充分体验该州最好的多感官体验。"
+                },
+                {
+                    "text": "参观首府特皮克是必须的。它的名字来源于纳瓦特尔语，意思是“坚固的石头之地”。"
+                },
+                {
+                    "text": "纳亚里特的典型美食以海洋为主要成分，包括鲨鱼、鲭鱼、朱红鱼、对虾和牡蛎等，你想尝试一下吗？"
+                },
+                {
+                    "text": "康波斯泰拉市位于该州南部沿海。这座城市以用烟草叶制作的手工艺品、圣多明戈教堂和参观Custodia角闻名。"
+                },
+                {
+                    "text": "哈拉市位于塞博鲁科火山的山脚下，那里有一个山谷，你可以在那里骑自行车、徒步旅行、观赏植物和露营。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1896187.0215287085!2d-106.5235616027901!3d21.838616787901028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8420a89ce63edb47%3A0xc2c8f5a28694d239!2sNayarit!5e0!3m2!1ses-419!2smx!4v1683578829322!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4t6rePG9VrNLRrGhHO9ibz?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/nayarit/indexweb.html",
+            "descriptionShort": "了解为什么纳亚里特应该在你的旅行清单上的5个原因。",
+            "desciptionHover": "了解更多关于纳亚里特的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "NuevoLeon",
+            "urlVideoTop": "https://www.youtube.com/embed/bfU0P-cc9dU?autoplay=1",
+            "titleTop": "新莱昂",
+            "descriptionTop": "墨西哥东北部的一个独特目的地。在它的殖民角落中，有着著名的魔法小镇：圣地亚哥、利纳雷斯和布斯塔曼特。新莱昂是一个独特、多面、充满冒险、商业和烧烤的心脏。快来了解它吧！",
+            "urlImg": "NuevoLeon.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于新莱昂的信息，请点击这里",
+                    "dir": "https://nuevoleon.travel/"
+                }
+            },
+            "titleBottom": "了解为什么新莱昂应该在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "蒙特雷，作为一个大都市区，是墨西哥第三大城市，其令人印象深刻的建筑和新颖的购物中心点缀着它。这里高级传统美食会用其独特的风味来让你陶醉。"
+                },
+                {
+                    "text": "在这里，肉类是美食的主角，切割和高品质的产品是它的代表。羔羊肉是它最主要、最引人注目的代表之一。"
+                },
+                {
+                    "text": "在利纳雷斯的街道上，你会感受到宁静，这与它壮观的建筑形成了对比。"
+                },
+                {
+                    "text": "布斯塔曼特完全被树木覆盖，你可以在那里参观一家龙舌兰酒厂，然后走进它的街道，观赏古典建筑。"
+                },
+                {
+                    "text": "圣地亚哥隐藏在东方大山脉和西拉山的包围之中，它是一个魔法小镇，这里的房屋和街道都是吸引人的特色。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1844172.8377582757!2d-101.13338097076416!3d25.475011940013584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629584a2a5b05d%3A0x701df442c36cbbc6!2sNuevo%20Le%C3%B3n!5e0!3m2!1ses-419!2smx!4v1683578947759!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/75BAwr4oD63XJP93w3wq8m?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/nuevoleon/indexweb.html",
+            "descriptionShort": "了解为什么新莱昂应该在你的旅行清单上的5个原因。",
+            "desciptionHover": "了解更多关于新莱昂的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Oaxaca",
+            "urlVideoTop": "https://www.youtube.com/embed/hKeKplolfMs?autoplay=1",
+            "titleTop": "瓦哈卡",
+            "descriptionTop": "墨西哥南部的瓦哈卡，多样、壮丽、丰富多彩，充满文化和自然。一颗真正的宝石。在瓦哈卡，你将穿越色彩缤纷、充满传统的街道，在每个角落探索它的历史、精美的手工艺品、美味的美食和美味的美酒。",
+            "urlImg": "OAX_Hierve_el_agua3023.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于瓦哈卡的信息，请点击这里",
+                    "dir": "http://www.oaxaca.travel/index.php/es/"
+                }
+            },
+            "titleBottom": "了解为什么瓦哈卡应该在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "它的首府瓦哈卡·德·胡阿雷斯是世界文化遗产，这个世界上独一无二的地方因其传统美丽而独具魅力。"
+                },
+                {
+                    "text": "瓦哈卡的美食是墨西哥最具代表性和最多样化的之一。其中一个非常传统的菜肴是瓦哈卡辣椒酱，有7种变种，你敢尝试吗？"
+                },
+                {
+                    "text": "加入“龙舌兰之路”的神奇旅程，你将了解到这种美味饮品在全球的手工制作过程。"
+                },
+                {
+                    "text": "如果你访问瓦图尔科，你可以在那里放松在36个海滩上，欣赏美丽的风景，或在急流中感受肾上腺素，进行运动钓鱼，感受大自然的接触。"
+                },
+                {
+                    "text": "你还可以前往普埃尔托·埃斯孔迪多，这是一个在太平洋上完美遗忘压力的地方，那里有令人难以置信的浪花海滩，或者一些更宁静的像天然泳池一样的海滩；还可以享受无尽的夜生活派对。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d603021.2045554055!2d-96.97536878788152!3d16.800457801053078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c72249df26d9b1%3A0xac88a77657dffc3b!2sOaxaca%20de%20Ju%C3%A1rez%2C%20Oax.!5e0!3m2!1ses-419!2smx!4v1684020627840!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/06kfpfp3bsE54c0r0GjoJv?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/oaxaca/indexweb.html",
+            "descriptionShort": "了解为什么瓦哈卡应该在你的旅行清单上的5个原因。",
+            "desciptionHover": "了解更多关于瓦哈卡的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Puebla",
+            "urlVideoTop": "https://www.youtube.com/embed/inxcwKHquVQ?autoplay=1",
+            "titleTop": "普埃布拉",
+            "descriptionTop": "普埃布拉位于墨西哥中部东部，由Popocatépetl和Iztaccíhuatl火山看守。你将被其拥有的10个魔法小镇、瀑布、湖泊、国家公园、小径以及Tehuacán- Cuicatlán大保护区所震撼。",
+            "urlImg": "PUE_catedral_42.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多有关普埃布拉的信息，请点击这里",
+                    "dir": "https://www.visitpuebla.mx/es/"
+                }
+            },
+            "titleBottom": "了解为什么普埃布拉应该在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "普埃布拉的首府历史中心，由圆顶、塔楼、钟楼、陶瓷和白色砂浆建造而成，自1987年起被联合国教科文组织列为世界文化遗产。"
+                },
+                {
+                    "text": "普埃布拉的手工艺品让墨西哥在印第安人的神奇手中闻名。"
+                },
+                {
+                    "text": "传统和风俗是神秘的遗产。普埃布拉的陶器是代表墨西哥的手工艺品之一，因此被联合国教科文组织列为人类非物质文化遗产。"
+                },
+                {
+                    "text": "美食在整个墨西哥都因普埃布拉修道院的修女们而闻名。墨西哥之父是墨西哥最具代表性的美食之一。"
+                },
+                {
+                    "text": "了解Atlixco的魔力，让它的宜人气候、茂密的自然和繁荣的商业和旅游活动吸引你；这些特点使其被誉为世界上气候最好的地方之一。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d967742.7146243165!2d-98.88511791946453!3d18.652999658222356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sPuebla%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1684020864980!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/0Ahe1HuCdpwmXe2qFlt7xc?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/puebla/indexweb.html",
+            "descriptionShort": "了解为什么普埃布拉应该在你的旅行清单上的5个原因。",
+            "desciptionHover": "了解更多有关普埃布拉的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Queretaro",
+            "urlVideoTop": "https://www.youtube.com/embed/EhbIkBe3K0I?autoplay=1",
+            "titleTop": "克雷塔罗",
+            "descriptionTop": "克雷塔罗是墨西哥的地理宝石，拥有丰富多样的旅游景点，适合所有在墨西哥中部寻找替代方案的人。这个地方拥有一切：现代化、传统、森林和美味的葡萄酒。",
+            "urlImg": "QRO_sierra_gorda_422.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多有关克雷塔罗的信息，请点击这里",
+                    "dir": "https://queretaro.travel/"
+                }
+            },
+            "titleBottom": "了解为什么克雷塔罗应该在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "克雷塔罗是墨西哥拥有最多魔法小镇的州之一。"
+                },
+                {
+                    "text": "它的首府令人惊叹，完美地结合了传统和前卫，是一个充满文化和各类活动的地方，适合所有人群。"
+                },
+                {
+                    "text": "它的混合美食包括烤肉、农家鸡、螃蟹、猪肉、玉米饼、猪肉脯、烤羊肉等。"
+                },
+                {
+                    "text": "对于运动爱好者，墨西哥Xtrail会让你喜欢。来自各地的跑步者聚集在一起，探索不同的生态系统，享受大自然，建立社区，并超越自己的目标。"
+                },
+                {
+                    "text": "克雷塔罗的南部有一个美丽的地区，由Chetumal、Bacalar和Mahahual三个目的地组成，称为大科斯塔玛雅。其茂密的自然、湖泊系统、宁静的沙滩、历史、文化、考古遗址和独特的景点，使其成为每个角落都是真正天堂的地方。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d954043.2427950689!2d-100.70136887210424!3d20.923122726456526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35b8fdc5b9255%3A0x97b094aa561b832f!2sSantiago%20de%20Quer%C3%A9taro%2C%20Qro.!5e0!3m2!1ses-419!2smx!4v1684021053247!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/queretaro/indexweb.html",
+            "descriptionShort": "了解为什么克雷塔罗应该在你的旅行清单上的5个原因。",
+            "desciptionHover": "了解更多有关克雷塔罗的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "QuintanaRoo",
+            "urlVideoTop": "https://www.youtube.com/embed/jnbG-1MbFWg?autoplay=1",
+            "titleTop": "昆塔纳罗奥",
+            "descriptionTop": "昆塔纳罗奥位于墨西哥东南部，是世界上独一无二的地区，拥有多样的旅游目的地和吸引力：蔚蓝的海洋、白色沙滩、热带丛林、考古遗址、天然石窟、地下河流、岛屿、湖泊、玛雅文化和历史。昆塔纳罗奥有14个旅游目的地：Holbox、Isla Mujeres、Costa Mujeres、坎昆、玛雅里维埃拉（包括莫雷洛斯港、卡门海滩和图卢姆）、科苏梅尔岛、玛雅Ka'an，以及由Mahahual、巴卡拉尔和切图马尔组成的大科斯塔玛雅。",
+            "urlImg": "QuintanaRoo.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多有关昆塔纳罗奥的信息，请点击这里",
+                    "dir": "https://www.caribemexicano.travel/"
+                }
+            },
+            "titleBottom": "了解为什么昆塔纳罗奥应该在你的旅行清单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "墨西哥加勒比海是一个充满冒险的天堂，你可以在这里忘却日常生活，与该地区的植物和动物亲密接触。"
+                },
+                {
+                    "text": "昆塔纳罗奥的南部是大科斯塔玛雅，这是一个由Chetumal、Bacalar和Mahahual三个目的地组成的美丽地区。茂密的自然、湖泊系统、宁静的沙滩、历史、文化、考古遗址以及独特的景点，使其成为一个真正的天堂。"
+                },
+                {
+                    "text": "在整个昆塔纳罗奥的各个目的地，你可以体验独特的香气、味道和质地的美食。等待着你的是来自海洋和大地的最佳产品。"
+                },
+                {
+                    "text": "坎昆是一个独特的城市，是一个充满现代化和传统文化的国际大都市。考古遗址和豪华酒店，现代化和传统文化，坎昆是否有任何遗漏之处？"
+                },
+                {
+                    "text": "昆塔纳罗奥的20%的领土得到保护，其中包括自然保护区、生物圈保护区、国家公园、植物和动物保护区以及各种动物物种的保护区。在这里，没有借口不去探索大自然！"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3845592.174182109!2d-90.64439106890148!3d19.735554426711545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4ffcf0eac32695%3A0xc4f0c52a484c8d9c!2sQuintana%20Roo!5e0!3m2!1ses-419!2smx!4v1684021214206!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/3jLxQG2AbDNOa3eL5AV4N4?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/quintanaroo/indexweb.html",
+            "descriptionShort": "了解为什么昆塔纳罗奥应该在你的旅行清单上的5个原因。",
+            "desciptionHover": "了解更多有关昆塔纳罗奥的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "SanLuisPotosi",
+            "urlVideoTop": "https://www.youtube.com/embed/1gEAijlXnjc?autoplay=1",
+            "titleTop": "圣路易斯波托西",
+            "descriptionTop": "圣路易斯波托西位于墨西哥中部，是一个四个地区对比形成的目的地。从神秘的沙漠到令人惊叹的波托西纳胡阿斯特卡，无数的旅游吸引力等待着你。",
+            "urlImg": "sanluispotosi.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多有关圣路易斯波托西的信息，请点击这里",
+                    "dir": "https://visitasanluispotosi.com/"
+                }
+            },
+            "titleBottom": "了解5个理由，为什么圣路易斯波托西应该在你的旅行清单上。",
+            "descriptionBottom": [
+                {
+                    "text": "在美丽的魁立特洛魔法小镇，骑自行车飞越250米高度。"
+                },
+                {
+                    "text": "Ogarrio隧道长2.5公里，是通往Real de Catorce魔法小镇上令人难忘的体验的入口，沿着铺满鹅卵石的道路，体验矿区的壮丽景色。"
+                },
+                {
+                    "text": "城市瓦列斯的茂密植被以及众多旅游活动，如瀑布跳水、参观Tének丛林、在希达尔戈花园漫步或乘坐Río Valles上的trajinera，等等。"
+                },
+                {
+                    "text": "在胡阿斯特卡波托西的Aquismón魔法小镇进行冒险运动和户外活动。"
+                },
+                {
+                    "text": "圣路易斯波托西壮观且众多的瀑布，如Tamasopo瀑布、El Salto瀑布、Minas Viejas瀑布等等。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1892526.8016636858!2d-102.27444269316865!3d22.112954982526595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa20005acfb79%3A0xed2ee29afe18257!2sSan%20Luis%2C%20S.L.P.!5e0!3m2!1ses-419!2smx!4v1684021496107!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/0xymn7NdxdlCLnDFL7ffQ1?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/sanluispotosi/indexweb.html",
+            "descriptionShort": "了解5个理由，为什么圣路易斯波托西应该在你的旅行清单上。",
+            "desciptionHover": "了解更多有关圣路易斯波托西的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Sinaloa",
+            "urlVideoTop": "https://www.youtube.com/embed/MKX2Na-l-a4?autoplay=1",
+            "titleTop": "锡那罗亚",
+            "descriptionTop": "锡那罗亚位于墨西哥西北部，拥有650公里的海岸线，提供丰富的阳光和海滩体验。库利阿坎为所有感官提供了丰富的体验：商务、文化、艺术、休闲、教育，当然还有派对和娱乐。",
+            "urlImg": "SIN_mazatlan_playa-750.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多有关锡那罗亚的信息，请点击这里",
+                    "dir": "https://sinaloa.travel/"
+                }
+            },
+            "titleBottom": "了解5个理由，为什么锡那罗亚应该在你的旅行清单上。",
+            "descriptionBottom": [
+                {
+                    "text": "其主要旅游中心有马萨特兰、库利阿坎和洛斯莫奇斯。"
+                },
+                {
+                    "text": "其美味的美食主要以海产品和牛肉为主。"
+                },
+                {
+                    "text": "锡那罗亚有4个魔法小镇：埃尔罗萨里奥、科萨拉、莫科里托和埃尔富尔特。此外，锡那罗亚还有通往科布雷大峡谷的唯一旅游火车Chepe Express的出发点。"
+                },
+                {
+                    "text": "马萨特兰是墨西哥太平洋海岸上历史最悠久的港口城市，是一个受欢迎且美丽的旅游目的地。"
+                },
+                {
+                    "text": "魔法小镇的小石街道和美丽景色，丰富了矿业历史、热带气候、古老教堂和幽灵传说。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710686.7360458025!2d-110.06058980487454!3d24.73657650691432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/57qATI59zt97GfYpac1FoS?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/sinaloa/indexweb.html",
+            "descriptionShort": "了解5个理由，为什么锡那罗亚应该在你的旅行清单上。",
+            "desciptionHover": "了解更多有关锡那罗亚的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Sonora",
+            "urlVideoTop": "https://www.youtube.com/embed/n5xkeVm3bws?autoplay=1",
+            "titleTop": "索诺拉",
+            "descriptionTop": "索诺拉是墨西哥北部的一个大州，拥有重要的领土面积，是墨西哥第二大州，这里有翠绿的山脉、广阔的农业谷地、壮观的沙漠、超过1200公里的科尔特斯海的海岸线，以及与美国接壤的活跃边境。",
+            "urlImg": "SON_caborca_10.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多有关索诺拉的信息，请点击这里",
+                    "dir": "https://visitsonora.mx/"
+                }
+            },
+            "titleBottom": "了解5个理由，为什么索诺拉应该在你的旅行清单上。",
+            "descriptionBottom": [
+                {
+                    "text": "从圣卡洛斯观景台，欣赏世界上最美的海洋景观。"
+                },
+                {
+                    "text": "在墨西哥最美的海滩之一Bay of Kino，享受白色的沙滩和温暖宁静的海水。"
+                },
+                {
+                    "text": "圣卡洛斯的独特风景，位于科尔特斯海，这个小镇被山脉和海滩环绕，海洋与沙漠融为一体。"
+                },
+                {
+                    "text": "包括黑红色熔岩和巨大沙丘的Pinacate生物保护区，以及达到200米高度的Altar大沙漠。"
+                },
+                {
+                    "text": "Caborca的岩画，你可以在这里看到拉丁美洲最集中的史前雕刻。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7125758.782105107!2d-117.02763597053065!3d29.300691176733878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86982969e74dd20f%3A0xcd56ff1afcbbe374!2sSonora!5e0!3m2!1ses-419!2smx!4v1684021784841!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/4xRB7oBUzyZe7dIiNf6H58?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/sonora/indexweb.html",
+            "descriptionShort": "了解5个理由，为什么索诺拉应该在你的旅行清单上。",
+            "desciptionHover": "了解更多有关索诺拉的信息，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Tabasco",
+            "urlVideoTop": "https://www.youtube.com/embed/noJ6i36csXQ?autoplay=1",
+            "titleTop": "Tabasco",
+            "descriptionTop": "它的位置使它成为墨西哥东南部和玛雅世界的入口，是石油工业的中心和地区娱乐，服务和通讯中心。 它拥有全国53％的水资源。 它在可可和养牛方面排名第一； 在香蕉生产方面排名第二。",
+            "urlImg": "Tabasco-Comalcalco-04(1).webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于塔巴斯科，请点击这里",
+                    "dir": "https://visitetabasco.com/"
+                }
+            },
+            "titleBottom": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "它的不羁绿色和热带风光，有很多河流，广泛的湖泊区，许多沼泽地区和美丽的海滩。"
+                },
+                {
+                    "text": "它的美食口味非常丰富，尤其是历史和传统来源于土著和西班牙的菜肴。"
+                },
+                {
+                    "text": "它是钓鱼，观鸟，生态旅游和冒险旅游的天堂，等等。"
+                },
+                {
+                    "text": "其河流，湖泊和壮丽的维利亚埃尔莫萨（Villahermosa）地区的壮观自然风光。"
+                },
+                {
+                    "text": "快乐，民间传说，颜色和风味是毕吉·约科坦大道（Biji Yokot’an）的特色。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886964.1408265596!2d-95.19981354332153!3d17.938523210589693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edfb5f8f78cb4f%3A0xd426cb11d9866b44!2sTabasco!5e0!3m2!1ses-419!2smx!4v1684022280766!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1e0PFxUw2WqvP9Jp3VF2a1?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/tabasco/indexweb.html",
+            "descriptionShort": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "desciptionHover": "了解更多关于塔巴斯科，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Tamaulipas",
+            "urlVideoTop": "https://www.youtube.com/embed/DktNae84wVk?autoplay=1",
+            "titleTop": "Tamaulipas",
+            "descriptionTop": "塔毛利帕斯位于墨西哥东北部。 拥有400多公里的海滩和众多边境。 这里居住着无数的野生动植物，如美洲豹，绿翅金刚鹦鹉，鳄鱼和鹿，以及成千上万只鸟类，可以在整个领土上观察到。",
+            "urlImg": "TMPS_miramar_2_20.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于塔毛利帕斯，请点击这里",
+                    "dir": "http://www.visittam.com/"
+                }
+            },
+            "titleBottom": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "维多利亚市是一个美丽的城市，充满文化和活动。"
+                },
+                {
+                    "text": "塔毛利帕斯美食的味道会征服你的味蕾，例如龙虾，蟹肉和酸橘汁腌鱼； Tultecas辣酱和美味的雪糕以及当地水果。"
+                },
+                {
+                    "text": "该州拥有五个美丽的海滩，为您和您的家人提供出色的酒店设施：巴格达海滩，Carbonera海滩，Barra del Tordo海滩，拉佩斯卡海滩或米拉马尔海滩。"
+                },
+                {
+                    "text": "米尔（Mier）魔法小镇，在这个美丽的塔毛利帕斯小镇的街道上，您可以呼吸到18世纪新圣德尔期间形成的古老殖民小镇的氛围。"
+                },
+                {
+                    "text": "坐落在塔毛利帕斯西南部的西拉马德雷东山脉，美丽的图拉（Tula）是这个地区的发源地，塔毛利帕斯的代表性服装“Tulteca cuera”就产自这个地方。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705052.4384775567!2d-101.28520894348287!3d24.924735351966053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x867953aedb1e2459%3A0x33859f5a35e81925!2sTamaulipas!5e0!3m2!1ses-419!2smx!4v1684022385332!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/42i0q3sQUpBO2ObG2nxySB?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/tamaulipas/indexweb.html",
+            "descriptionShort": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "desciptionHover": "了解更多关于塔毛利帕斯，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Tlaxcala",
+            "urlVideoTop": "https://www.youtube.com/embed/NQPGtGnuA9E?autoplay=1",
+            "titleTop": "Tlaxcala",
+            "descriptionTop": "墨西哥中部的心脏地带是Tlaxcala，距离墨西哥城仅120公里。 它是墨西哥共和国最小的州之一，但在历史和传统上却是最伟大的州之一。 Tlaxcala确实存在。 请亲自验证！",
+            "urlImg": "TLX_teatro_26.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于特拉斯卡拉，请点击这里",
+                    "dir": "https://www.tlaxcalasiexiste.com.mx/"
+                }
+            },
+            "titleBottom": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "您将被描绘特拉斯卡拉人民历史的壁画所吸引。"
+                },
+                {
+                    "text": "该地区的美食保护着与传统特拉斯卡拉烹饪相关的食品遗产。"
+                },
+                {
+                    "text": "宪法广场（Plaza de la Constitución）一直是从黄金时代的墨西哥电影到现在的电影，纪录片和短片的拍摄场地。"
+                },
+                {
+                    "text": "了解其主要建筑背后的历史，如政府宫，古老的“印地斯皇家教堂”海达尔戈和胡亚雷斯（Hidalgo和Juárez）门廊，以及石头屋。"
+                },
+                {
+                    "text": "由60多年传统的华曼特拉达（Huamantlada）节庆。 街道上装饰着多彩的木屑和花朵。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1926627.340737737!2d-99.4862495595288!3d19.41482434541632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfd93f1c006113%3A0x38bae25ad47cbde0!2sTlaxcala!5e0!3m2!1ses-419!2smx!4v1684022486835!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/track/2Au5dhEkQ16xsO05chmItl?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/tlaxcala/indexweb.html",
+            "descriptionShort": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "desciptionHover": "了解更多关于特拉斯卡拉，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Veracruz",
+            "urlVideoTop": "https://www.youtube.com/embed/YoNdlAk5N5Q?autoplay=1",
+            "titleTop": "Veracruz",
+            "descriptionTop": "墨西哥的一个狭长的州，环绕着墨西哥湾，拥有几个海滩和墨西哥最高的山峰奥里萨巴火山，一座不活跃的火山。 这是一个拥有丰富文化和自然多样性的地区，是墨西哥三个生物多样性最丰富的地区之一。",
+            "urlImg": "VER_catemaco104.webp",
+            "actions": {
+                "button": {
+                    "text": "了解更多关于韦拉克鲁斯，请点击这里",
+                    "dir": "https://www.google.com/"
+                }
+            },
+            "titleBottom": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "descriptionBottom": [
+                {
+                    "text": "这是墨西哥湾地区最美丽和最温暖的州，你会真的爱上它。"
+                },
+                {
+                    "text": "它拥有墨西哥35个世界遗产之一：埃尔塔津古城和特拉科特潘历史纪念区。"
+                },
+                {
+                    "text": "艺术和文化在港口和首都的街道上穿越时间的轨迹，展现着殖民时期的建筑风貌。"
+                },
+                {
+                    "text": "它的丰富文化，如韦拉克鲁斯陶器，编织和织物。"
+                },
+                {
+                    "text": "美丽的海滩，河流，温泉水池等自然风光令人叹为观止。"
+                }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120587.93128962361!2d-96.25871711943859!3d19.178910555291967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c3414245ca78c5%3A0x18a4d642e936019b!2sVeracruz%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1684022576385!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/1xVFcq3EP54qT1OKuZ6pHa?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/veracruz/indexweb.html",
+            "descriptionShort": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "desciptionHover": "了解更多关于韦拉克鲁斯，请点击这里",
+            "dir": "/destino"
+        },
+        {
+            "id": "Yucatan",
+            "urlVideoTop": "https://www.youtube.com/embed/aDjSaYjccbE?autoplay=1",
+            "titleTop": "墨西哥尤卡坦州",
+            "descriptionTop": "尤卡坦州是墨西哥东南部著名的州，以墨西哥湾的海滩和玛雅遗址而闻名。 该州位于墨西哥东南部，您可以在这里结合历史、文化、浪漫、美食、海滩以及独特的机会，沉浸在玛雅人的社区中。",
+            "urlImg": "YUC_Cusaman_Cenotes152.webp",
+            "actions": {
+            "button": {
+            "text": "了解更多关于尤卡坦州，请点击这里",
+            "dir": "https://yucatan.travel/"
+            }
+            },
+            "titleBottom": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "descriptionBottom": [
+            {
+            "text": "首府梅里达的文化、历史、娱乐和美食。"
+            },
+            {
+            "text": "尤卡坦州独特而特别的美食，其中世界闻名的烤乳猪最为著名。"
+            },
+            {
+            "text": "欣赏葱郁的热带丛林，保护着不可错过的玛雅考古遗址。"
+            },
+            {
+            "text": "尤卡坦州天然的浪漫之处，如白沙滩和翡翠色的平静海水。"
+            },
+            {
+            "text": "有着丰富热带森林、天然泉水、红树林和尤卡坦里维埃拉（Riviera Yucatán）海滩的自然风光。"
+            }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3813412.5324629922!2d-91.72837164601708!3d21.03125846141055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f540ff8aad604ed%3A0xcccc217531083d0a!2zWXVjYXTDoW4!5e0!3m2!1ses-419!2smx!4v1684022688075!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/3qxRbcVFYfo0IHTiOzof1V?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/yucatan/indexweb.html",
+            "descriptionShort": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "desciptionHover": "了解更多关于尤卡坦州，请点击这里",
+            "dir": "/destino"
+            },
+            {
+            "id": "Zacatecas",
+            "urlVideoTop": "https://www.youtube.com/embed/v5bCqfnHHOc?autoplay=1",
+            "titleTop": "萨卡特卡斯",
+            "descriptionTop": "萨卡特卡斯位于墨西哥的中部，以16世纪的银矿中心而闻名。 这个地区地势多样，海拔不同，是一个光彩夺目的州。 自豪于其矿业历史，从地底深处到其流行的美食影响。",
+            "urlImg": "zacatecas.webp",
+            "actions": {
+            "button": {
+            "text": "了解更多关于萨卡特卡斯，请点击这里",
+            "dir": "https://www.zacatecastravel.com/"
+            }
+            },
+            "titleBottom": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "descriptionBottom": [
+            {
+            "text": "这是一个令人惊叹、色彩丰富且慷慨的州，您将体验到奢侈和冥想的体验。"
+            },
+            {
+            "text": "它的天空被认为是墨西哥最蓝的。"
+            },
+            {
+            "text": "丰富的美食，如墨西哥辣椒酱和萨卡特卡斯卷饼。"
+            },
+            {
+            "text": "古老的旅游矿井和它的白银制品店。"
+            },
+            {
+            "text": "萨卡特卡斯是全境人均博物馆最多的城市，您将拥有许多有趣的选择。"
+            }
+            ],
+            "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758930.7320455452!2d-105.18865987848196!3d23.06666422056259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8681d1a07ec9fe6f%3A0x1c1f2dfd5e256d98!2sZacatecas!5e0!3m2!1ses-419!2smx!4v1684022913675!5m2!1ses-419!2smx",
+            "urlSpotify": "https://open.spotify.com/embed/playlist/6XOFXXp91YSgCvCNawIfOw?utm_source=generator",
+            "urlVideoBottom": "https://www.mexico360.com.mx/zacatecas/indexweb.html",
+            "descriptionShort": "了解为何这个目的地应该在你的旅行名单上的5个原因。",
+            "desciptionHover": "了解更多关于萨卡特卡斯，请点击这里",
+            "dir": "/destino"
+            }
+    ]
+}

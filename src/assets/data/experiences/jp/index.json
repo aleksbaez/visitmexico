@@ -1,0 +1,247 @@
+{
+    "experiences": [
+      {
+        "id": "rutas-gastronomicas",
+        "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?&autoplay=1",
+        "title": "ガストロノミックルート",
+        "gallery": [
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+            "title": "コチニータ・ピビル"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+            "title": "キンタナロオのヴァポルシート（タマレス）"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_acatlan_4_11zon.webp",
+            "title": "アカトランのエロテス、イダルゴ州"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+            "title": "アクトパン、イダルゴ州のチニクイル（マゲイの幼虫）タコス"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/MEX_avandaro_t__147_11zon.webp",
+            "title": "アバンダロのシーフードタワー"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules5_11zon.webp",
+            "title": "ユカテコのパパズール"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules_11zon.webp",
+            "title": "ユカテコのパパズール"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "title": "プエブラのチリ・エン・ノガダ"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Qroo_Lorenzillos_girls63-2_11zon.webp",
+            "title": "海からあなたのテーブルへ"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/TMPS_tampico_2_131_11zon.webp",
+            "title": "タンピコ・タマウリパスのシーフードプラトーン"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Yucatan_Foto_13.webp",
+            "title": "ユカテカ料理"
+          }
+        ],
+        "description": [
+          {
+            "text": "メキシコは味と伝統、そして文化を兼ね備えています。そのため、2010年にはユネスコによってメキシコ伝統料理が人類無形文化遺産に指定されました。メキシコ料理は文化的アイデンティティ、社会結束の重要な要素であり、地域社会の発展を促す要因でもあります。"
+          },
+          {
+            "text": "メキシコでは、あなたの訪問を忘れられないものにする、数多くのユニークな食材と料理が用意されています。584,000軒以上のレストランがあり、そのうち2軒が世界トップ10にランクインしています。どちらもメキシコシティにあります。"
+          },
+          {
+            "text": "メキシコの食文化は多岐にわたります。様々な味、香り、食感があなたの食欲を刺激します。海、土地、空の持つ最高の食材の中から、一部は原産地呼称を持つものもあり、アイデンティティ、創造性、そして何よりもおもてなしの心を味わいながら提供されます。"
+          },
+          {
+            "text": "是非、メキシコのガストロノミックルートを体験して、メキシコの味を堪能してください。"
+          }
+        ]
+      },
+      {
+        "id": "sol-playa",
+        "urlVideoTop": "https://www.youtube.com/embed/WVeHPYxFTUA?&autoplay=1",
+        "title": "太陽とビーチ",
+        "gallery": [
+          {
+            "imageUrl": "solPlayaGallery/BCN_ensenada_7_11zon.webp",
+            "title": "BCN エンセナダ"
+          },
+          {
+            "imageUrl": "solPlayaGallery/BCS_cabo_pulmo_26_11zon.webp",
+            "title": "BCS カボ・プルモ"
+          },
+          {
+            "imageUrl": "solPlayaGallery/GRO_acapulco_1317_11zon.webp",
+            "title": "GRO アカプルコ"
+          },
+          {
+            "imageUrl": "solPlayaGallery/JAL_careyes_11_11zon.webp",
+            "title": "ハリスコ カレイエス"
+          },
+          {
+            "imageUrl": "solPlayaGallery/OAX_costa_25_11zon.webp",
+            "title": "オアハカ コスタ・チカ"
+          },
+          {
+            "imageUrl": "solPlayaGallery/Qroo_Hotel_catalonia63_2_11zon.webp",
+            "title": "カタロニア・リビエラ・マヤ ホテル"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SIN_las_glorias_25_11zon.webp",
+            "title": "シナロア ラス・グロリアス"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SON_SanCarlos_Mirador-138_11zon.webp",
+            "title": "ソノラ サン・カルロスの展望台"
+          },
+          {
+            "imageUrl": "solPlayaGallery/TMPS_miramar_2_236_11zon.webp",
+            "title": "タマウリパス ミラマー"
+          },
+          {
+            "imageUrl": "solPlayaGallery/VER_catemaco104_11zon.webp",
+            "title": "ベラクルス カテマコ"
+          }
+        ],
+        "description": [
+          {
+            "text": "メキシコの特権的な位置は太平洋、メキシコ湾、カリブ海に「浸かっている」ため、太陽とビーチを求める観光客にとって楽園となっています。"
+          },
+          {
+            "text": "11,000キロメートルを超える長い海岸線は、それぞれが異なる色の海と異なる質感の砂を持つユニークなビーチを提供しています。"
+          },
+          {
+            "text": "植物と動物の多様性も、メキシコを世界中から訪れる人々の魅力となっています。世界の水族館とも称されるコルテス海、地球上でも最も恵まれた気候のアカプルコの美しい湾、オアハカのビーチでサーフィンを楽しむことができるビーチなど、太平洋側で楽しめるものは多岐にわたります。一方、メキシコ湾側にはベラクルスのエスメラルダ・コスタや、カリブ海の青い海と白い砂浜が魅力です。"
+          }
+        ]
+      },
+      {
+        "id": "aventura",
+        "urlVideoTop": "https://www.youtube.com/embed/MQNWS8yp__o?&autoplay=1",
+        "title": "アドベンチャー",
+        "gallery": [
+          {
+            "imageUrl": "aventuraGallery/SIN_guanacoa_257.webp",
+            "title": "シナロア グアナコア"
+          },
+          {
+            "imageUrl": "aventuraGallery/TRAVESIA-3(1).webp",
+            "title": "トラベシア"
+          }
+        ],
+        "description": [
+          {
+            "text": "メガバーシティは、世界で最も生物多様性の豊かな国のグループです。メキシコはこの中に入る19ヵ国のうちの1つに位置しています。"
+          },
+          {
+            "text": "この多様な生態系は、アドベンチャー好きの人々にとって、アドレナリンを感じながら自然を楽しむ理想的な旅行先となっています。"
+          },
+          {
+            "text": "山々、川、砂漠、海、さまざまな自然のシーンが、あなたを温かく迎えてくれます。"
+          },
+          {
+            "text": "ラフティング、ラッペリング、サーフィン、サイクリング、ダイビング、スピードジップライン、カヤック、セーリング、登山など、あなたの人生のアドベンチャーをメキシコで体験しましょう！"
+          }
+        ]
+      },
+      {
+        "id": "sostenible",
+        "urlVideoTop": "https://www.youtube.com/embed/hEuneaZVBws?&autoplay=1",
+        "title": "サステナブル",
+        "gallery": [
+          {
+            "imageUrl": "sostenibleGallery/BCS_tiburonballena.webp",
+            "title": "BCS ジンベエザメ"
+          },
+          {
+            "imageUrl": "sostenibleGallery/CHIH_creel47-_1__11zon.webp",
+            "title": "CHIH クリール"
+          }
+        ],
+        "description": [
+          {
+            "text": "持続可能な観光は、受け入れる地域社会の社会、経済、環境、文化の改善を促進し、将来の世代の資源を損なうことなく、その地域の自然と文化の遺産を活用、保護、保存するための手段です。"
+          },
+          {
+            "text": "具体的には、経済的に公正で、社会的に包摂的で、環境的に責任を持つ観光を指します。"
+          }
+        ]
+      },
+      {
+        "id": "bienestar",
+        "urlVideoTop": "https://www.youtube.com/embed/qmN6CifrUxU?&autoplay=1",
+        "title": "ウェルビーイング",
+        "gallery": [
+          {
+            "imageUrl": "bienestarGallery/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+            "title": "モレロス テポツラン ホテル・ドス・ピエドラス"
+          }
+        ],
+        "description": [
+          {
+            "text": "ウェルビーイング観光（ウェルネス観光）は、主に医療や健康に関連するアクティビティを通じて、観光客の身体、精神、霊的な健康に貢献することを目的とした旅行を指します。"
+          },
+          {
+            "text": "マッサージを受けたり、テマスカルで温浴を楽しんだり、鍼治療を受けたり、瞑想を行ったり、ヨガのレッスンを受けたり、スピリチュアルなリトリートに参加したりするなど、ウェルビーイング観光にはさまざまな活動が含まれます。メキシコはラテンアメリカでウェルビーイング観光の第1位であり、世界でもトップ20のウェルビーイング観光を受け入れる国として第7位にランクされています。"
+          },
+          {
+            "text": "健康と観光は権利であり、メキシコではその両方を十分に楽しんでいただけるよう取り組んでいます。ここでは、リラックスして健康を気遣うための様々な目的地やアクティビティが用意されています。"
+          }
+        ]
+      },
+      {
+        "id": "bodas",
+        "urlVideoTop": "https://www.youtube.com/embed/zXbpLh_guyY?&autoplay=1",
+        "title": "ウェディング",
+        "gallery": [
+          {
+            "imageUrl": "bodasGallery/Boda-tradicional-Olmeca-Veracruz.webp",
+            "title": "ベラクルス オルメカの伝統的な結婚式"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Nayarit.webp",
+            "title": "ワフリカ ウィシャリカの儀式、ナヤリット"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Zacatecas.webp",
+            "title": "ワフリカ ウィシャリカの儀式、サカテカス"
+          },
+          {
+            "imageUrl": "bodasGallery/La-novia-de-Puebla.webp",
+            "title": "プエブラの新婦"
+          },
+          {
+            "imageUrl": "bodasGallery/Novios-Queretaro-4.webp",
+            "title": "ケレタロの新郎新婦"
+          },
+          {
+            "imageUrl": "bodasGallery/Pareja-Queretaro-3.webp",
+            "title": "ケレタロのカップル"
+          }
+        ],
+        "description": [
+          {
+            "text": "ロマンスツーリズムは、夫婦や家族が特別な瞬間を祝うために行う旅行を含みます。結婚の誓いを新たにすること、独身生活を終えるパーティ、指輪の交換、ハネムーン、結婚記念日、赤ちゃんの誕生前の最後の旅行（ベビームーン）、再婚、家族との旅行（ファミリームーン）、そして特に目的地ウェディングやウェディングフガを含みます。"
+          },
+          {
+            "text": "夫婦にとっての理想的な舞台は美しいビーチであり、新しい世代は植民地都市やアドベンチャーのある場所に魅了されています。"
+          },
+          {
+            "text": "メキシコでは地元の人々、職人、デザイナー、伝統的な料理人などを巻き込むことで、ジェンダーの観点や包括性を考慮した社会的な発展を図っています。"
+          },
+          {
+            "text": "メキシコにさらに心惹かれ、その魅力的な体験を味わってください。"
+          }
+        ]
+      }
+    ]
+  }
+  

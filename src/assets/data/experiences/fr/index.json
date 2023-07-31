@@ -1,0 +1,247 @@
+{
+    "experiences": [
+      {
+        "id": "rutas-gastronomicas",
+        "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?&autoplay=1",
+        "title": "Routes Gastronomiques",
+        "gallery": [
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+            "title": "Cochinita Pibil"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+            "title": "Vaporcitos (Tamales) de Quintana Roo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_acatlan_4_11zon.webp",
+            "title": "Elotes Acatlán, Hidalgo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+            "title": "Taco de chinicuiles (gusanos de Maguey), Actopan, Hidalgo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/MEX_avandaro_t__147_11zon.webp",
+            "title": "Tour de fruits de mer, Avándaro"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules5_11zon.webp",
+            "title": "Papadzules yucatèques"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules_11zon.webp",
+            "title": "Papadzules yucatèques"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "title": "Chile en nogada, Puebla"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Qroo_Lorenzillos_girls63-2_11zon.webp",
+            "title": "De la mer à votre assiette"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/TMPS_tampico_2_131_11zon.webp",
+            "title": "Platón de fruits de mer, Tampico Tamaulipas"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Yucatan_Foto_13.webp",
+            "title": "Gastronomie yucatèque"
+          }
+        ],
+        "description": [
+          {
+            "text": "Le Mexique, c'est la saveur, mais c'est aussi la tradition et la culture. L'importance de la gastronomie dans notre pays est telle qu'en 2010, l'UNESCO a déclaré la cuisine traditionnelle mexicaine patrimoine culturel immatériel de l'humanité. La cuisine mexicaine est un facteur essentiel de l'identité culturelle, de la cohésion sociale et du développement communautaire."
+          },
+          {
+            "text": "Dans notre pays, vous trouverez une infinité d'ingrédients et de plats uniques qui rendront votre visite inoubliable. Nous proposons une immense diversité gastronomique avec plus de 584 000 restaurants, dont deux figurent parmi les dix meilleurs restaurants du monde, tous deux situés à Mexico."
+          },
+          {
+            "text": "La culture gastronomique du Mexique est immense. Des saveurs pour tous les goûts, des arômes et des textures qui éveilleront votre appétit. Les meilleurs produits que la mer, la terre et le ciel ont à offrir, certains d'entre eux avec une appellation d'origine, seront servis dans votre assiette pour que vous puissiez profiter de l'identité, de la créativité et surtout de l'hospitalité."
+          },
+          {
+            "text": "Découvrez nos routes gastronomiques, soigneusement planifiées pour que vous puissiez savourer l'essence du Mexique."
+          }
+        ]
+      },
+      {
+        "id": "sol-playa",
+        "urlVideoTop": "https://www.youtube.com/embed/WVeHPYxFTUA?&autoplay=1",
+        "title": "Soleil et Plage",
+        "gallery": [
+          {
+            "imageUrl": "solPlayaGallery/BCN_ensenada_7_11zon.webp",
+            "title": "BCN Ensenada"
+          },
+          {
+            "imageUrl": "solPlayaGallery/BCS_cabo_pulmo_26_11zon.webp",
+            "title": "BCS Cabo Pulmo"
+          },
+          {
+            "imageUrl": "solPlayaGallery/GRO_acapulco_1317_11zon.webp",
+            "title": "GRO Acapulco"
+          },
+          {
+            "imageUrl": "solPlayaGallery/JAL_careyes_11_11zon.webp",
+            "title": "Jalisco Careyes"
+          },
+          {
+            "imageUrl": "solPlayaGallery/OAX_costa_25_11zon.webp",
+            "title": "Oaxaca Costa Chica"
+          },
+          {
+            "imageUrl": "solPlayaGallery/Qroo_Hotel_catalonia63_2_11zon.webp",
+            "title": "Hôtel Catalonia Riviera Maya"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SIN_las_glorias_25_11zon.webp",
+            "title": "Las Glorias, Sinaloa"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SON_SanCarlos_Mirador-138_11zon.webp",
+            "title": "Sonora Le mirador de San Carlos"
+          },
+          {
+            "imageUrl": "solPlayaGallery/TMPS_miramar_2_236_11zon.webp",
+            "title": "Miramar Tamaulipas"
+          },
+          {
+            "imageUrl": "solPlayaGallery/VER_catemaco104_11zon.webp",
+            "title": "Catemaco Veracruz"
+          }
+        ],
+        "description": [
+          {
+            "text": "Grâce à sa position géographique privilégiée, le Mexique est \"baigné\" par l'océan Pacifique, le golfe du Mexique et la mer des Caraïbes, ce qui en fait une destination paradisiaque pour les touristes en quête de soleil et de plage."
+          },
+          {
+            "text": "Le littoral de plus de 11 000 kilomètres permet à chaque plage d'être unique en son genre, avec des eaux aux différentes nuances et des sables de différentes textures."
+          },
+          {
+            "text": "La flore et la faune marines font également du Mexique un aimant pour les visiteurs du monde entier. La mer de Cortez, surnommée \"l'aquarium du monde\" ; la magnifique baie d'Acapulco, bénéficiant d'un des climats les plus privilégiés de la planète ; et les plages d'Oaxaca, dont les vagues sont parfaites pour le surf, ne sont que quelques exemples de ce que vous pourrez apprécier sur la côte pacifique mexicaine ; tandis que du côté du golfe du Mexique, nous trouvons la Costa Esmeralda à Veracruz, sans oublier le bleu turquoise de la mer des Caraïbes mexicaine, avec son sable blanc."
+          }
+        ]
+      },
+      {
+        "id": "aventura",
+        "urlVideoTop": "https://www.youtube.com/embed/MQNWS8yp__o?&autoplay=1",
+        "title": "Aventure",
+        "gallery": [
+          {
+            "imageUrl": "aventuraGallery/SIN_guanacoa_257.webp",
+            "title": "SIN Guanacoa"
+          },
+          {
+            "imageUrl": "aventuraGallery/TRAVESIA-3(1).webp",
+            "title": "Travesia"
+          }
+        ],
+        "description": [
+          {
+            "text": "Les pays mégadiversifiés sont des nations qui abritent la plus grande biodiversité au monde. Le Mexique a l'honneur de faire partie des 19 pays classés comme tels."
+          },
+          {
+            "text": "Cette diversité d'écosystèmes en fait l'une des meilleures destinations pour les âmes aventurières en quête d'adrénaline et de nature."
+          },
+          {
+            "text": "Montagnes, rivières, déserts, mers et de nombreux paysages naturels vous attendent à bras ouverts."
+          },
+          {
+            "text": "Parmi les aventures qui vous attendent, on trouve : le rafting en eau vive, le rappel, le surf, le vélo, la plongée, la tyrolienne à grande vitesse, le kayak, la voile, l'alpinisme et bien plus encore. Vivez l'aventure de votre vie au Mexique !"
+          }
+        ]
+      },
+      {
+        "id": "sostenible",
+        "urlVideoTop": "https://www.youtube.com/embed/hEuneaZVBws?&autoplay=1",
+        "title": "Durable",
+        "gallery": [
+          {
+            "imageUrl": "sostenibleGallery/BCS_tiburonballena.webp",
+            "title": "BCS Requin-baleine"
+          },
+          {
+            "imageUrl": "sostenibleGallery/CHIH_creel47-_1__11zon.webp",
+            "title": "CHIH Creel"
+          }
+        ],
+        "description": [
+          {
+            "text": "Le tourisme durable est un moyen d'utiliser, de conserver et de préserver le patrimoine naturel et culturel, dans un environnement favorisant le développement social, économique, environnemental et culturel des communautés d'accueil, afin de répondre aux besoins actuels de leur population sans compromettre ou mettre en danger les ressources des générations futures."
+          },
+          {
+            "text": "Concrètement, il s'agit d'un tourisme économiquement équitable, socialement inclusif et écologiquement responsable."
+          }
+        ]
+      },
+      {
+        "id": "bienestar",
+        "urlVideoTop": "https://www.youtube.com/embed/qmN6CifrUxU?&autoplay=1",
+        "title": "Bien-être",
+        "gallery": [
+          {
+            "imageUrl": "bienestarGallery/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+            "title": "MOR Tepoztlan Hôtel Dos Piedras"
+          }
+        ],
+        "description": [
+          {
+            "text": "Le tourisme de bien-être englobe des activités dont la motivation principale est de contribuer à la santé physique, mentale ou spirituelle du touriste par le biais d'activités médicales et de bien-être."
+          },
+          {
+            "text": "Recevoir un massage, prendre un bain de temazcal, pratiquer l'acupuncture, méditer, suivre des cours de yoga ou participer à une retraite spirituelle font partie des activités incluses dans le tourisme de bien-être. Le Mexique occupe la première place dans ce secteur en Amérique latine et la septième place parmi les 20 principaux pays recevant ce type de tourisme."
+          },
+          {
+            "text": "Tout comme la santé est un droit, le tourisme l'est aussi, et au Mexique, nous veillons à ce que vous puissiez pleinement profiter des deux. Vous trouverez ici toutes sortes de destinations et d'activités où vous pourrez vous détendre et prendre soin de votre santé."
+          }
+        ]
+      },
+      {
+        "id": "bodas",
+        "urlVideoTop": "https://www.youtube.com/embed/zXbpLh_guyY?&autoplay=1",
+        "title": "Mariages",
+        "gallery": [
+          {
+            "imageUrl": "bodasGallery/Boda-tradicional-Olmeca-Veracruz.webp",
+            "title": "Mariage Traditionnel Olmèque, Veracruz"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Nayarit.webp",
+            "title": "Cérémonie Wixarika, Nayarit"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Zacatecas.webp",
+            "title": "Cérémonie Wixarika, Zacatecas"
+          },
+          {
+            "imageUrl": "bodasGallery/La-novia-de-Puebla.webp",
+            "title": "La Mariée de Puebla"
+          },
+          {
+            "imageUrl": "bodasGallery/Novios-Queretaro-4.webp",
+            "title": "Nouveaux Mariés de Querétaro"
+          },
+          {
+            "imageUrl": "bodasGallery/Pareja-Queretaro-3.webp",
+            "title": "Couple de Querétaro"
+          }
+        ],
+        "description": [
+          {
+            "text": "Le tourisme romantique englobe les voyages effectués par les couples et les familles pour célébrer des moments spéciaux de leur vie, tels que les renouvellements de vœux, les enterrements de vie de garçon et de jeune fille, les demandes en mariage, les lunes de miel, les anniversaires, le dernier voyage avant la naissance d'un bébé (Baby Moon), les deuxièmes mariages, les voyages en famille (Family Moon) et surtout, les mariages de destination et les fugues romantiques."
+          },
+          {
+            "text": "Les magnifiques plages sont le lieu privilégié des couples, et les nouvelles générations sont attirées par les destinations coloniales et d'aventure."
+          },
+          {
+            "text": "Le Mexique implique la population locale : artisans, designers, cuisinières traditionnelles, entre autres, dans le développement social en favorisant l'égalité des genres et l'inclusion."
+          },
+          {
+            "text": "Nous vous invitons à tomber encore plus amoureux du Mexique et à oser le vivre à fond."
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,247 @@
+{
+    "experiences": [
+      {
+        "id": "rutas-gastronomicas",
+        "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?&autoplay=1",
+        "title": "Rotas Gastronômicas",
+        "gallery": [
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+            "title": "Cochinita Pibil"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+            "title": "Vaporcitos (tamales) de Quintana Roo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_acatlan_4_11zon.webp",
+            "title": "Elotes Acatlán, Hidalgo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+            "title": "Taco de chinicuiles (gusanos de Maguey), Actopan, Hidalgo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/MEX_avandaro_t__147_11zon.webp",
+            "title": "Torre de mariscos, Avándaro"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules5_11zon.webp",
+            "title": "Papadzules yucatecos"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules_11zon.webp",
+            "title": "Papadzules yucatecos"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "title": "Chile en nogada, Puebla"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Qroo_Lorenzillos_girls63-2_11zon.webp",
+            "title": "Del mar a su plato"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/TMPS_tampico_2_131_11zon.webp",
+            "title": "Platón de mariscos, Tampico Tamaulipas"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Yucatan_Foto_13.webp",
+            "title": "Gastronomia de Yucatán"
+          }
+        ],
+        "description": [
+          {
+            "text": "O México é sabor, tradição e cultura. A gastronomia de nosso país é tão importante que, em 2010, a UNESCO a declarou Patrimônio Cultural Imaterial da Humanidade. A gastronomia mexicana é um fator fundamental de identidade cultural, coesão social e desenvolvimento comunitário."
+          },
+          {
+            "text": "Em nosso país, você encontrará uma infinidade de ingredientes e pratos únicos que tornarão sua visita inesquecível. Temos uma oferta gastronômica imensa, com mais de 584 mil restaurantes, e dois deles estão entre os dez melhores do mundo, ambos na Cidade do México."
+          },
+          {
+            "text": "A cultura gastronômica do México é imensa. Sabores para todos os gostos, aromas e texturas que despertarão seu apetite. Os melhores produtos que o mar, a terra e o céu têm a oferecer, alguns deles com denominação de origem, serão servidos em seu prato para que você desfrute da identidade, criatividade e, acima de tudo, da hospitalidade."
+          },
+          {
+            "text": "Conheça nossas rotas gastronômicas, planejadas minuciosamente para que você possa saborear o que o México tem de melhor."
+          }
+        ]
+      },
+      {
+        "id": "sol-playa",
+        "urlVideoTop": "https://www.youtube.com/embed/WVeHPYxFTUA?&autoplay=1",
+        "title": "Sol e Praia",
+        "gallery": [
+          {
+            "imageUrl": "solPlayaGallery/BCN_ensenada_7_11zon.webp",
+            "title": "BCN Ensenada"
+          },
+          {
+            "imageUrl": "solPlayaGallery/BCS_cabo_pulmo_26_11zon.webp",
+            "title": "BCS Cabo Pulmo"
+          },
+          {
+            "imageUrl": "solPlayaGallery/GRO_acapulco_1317_11zon.webp",
+            "title": "GRO Acapulco"
+          },
+          {
+            "imageUrl": "solPlayaGallery/JAL_careyes_11_11zon.webp",
+            "title": "Jalisco Careyes"
+          },
+          {
+            "imageUrl": "solPlayaGallery/OAX_costa_25_11zon.webp",
+            "title": "Oaxaca Costa Chica"
+          },
+          {
+            "imageUrl": "solPlayaGallery/Qroo_Hotel_catalonia63_2_11zon.webp",
+            "title": "Hotel Catalonia Riviera Maya"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SIN_las_glorias_25_11zon.webp",
+            "title": "Las Glorias, Sinaloa"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SON_SanCarlos_Mirador-138_11zon.webp",
+            "title": "Sonora O mirante de San Carlos"
+          },
+          {
+            "imageUrl": "solPlayaGallery/TMPS_miramar_2_236_11zon.webp",
+            "title": "Miramar Tamaulipas"
+          },
+          {
+            "imageUrl": "solPlayaGallery/VER_catemaco104_11zon.webp",
+            "title": "Catemaco Veracruz"
+          }
+        ],
+        "description": [
+          {
+            "text": "A localização privilegiada do México o banha com o Oceano Pacífico, o Golfo do México e o Mar do Caribe, tornando-o um destino paradisíaco para os turistas em busca de sol e praia."
+          },
+          {
+            "text": "As extensas costas, com mais de 11 mil quilômetros, permitem que cada praia seja única em si mesma, com águas de diferentes tonalidades e areias de texturas variadas."
+          },
+          {
+            "text": "A flora e a fauna marinha também fazem do México um ímã para visitantes de todo o mundo. O Mar de Cortez, conhecido como o aquário do mundo; a bela Baía de Acapulco, com um dos climas mais privilegiados do planeta; e as praias de Oaxaca, cujas ondas são perfeitas para o surf, são apenas alguns exemplos do que se pode desfrutar no Pacífico Mexicano; enquanto no lado do Golfo do México, encontramos a Costa Esmeralda em Veracruz, e o incrível azul-turquesa do Caribe Mexicano, com suas praias de areias brancas."
+          }
+        ]
+      },
+      {
+        "id": "aventura",
+        "urlVideoTop": "https://www.youtube.com/embed/MQNWS8yp__o?&autoplay=1",
+        "title": "Aventura",
+        "gallery": [
+          {
+            "imageUrl": "aventuraGallery/SIN_guanacoa_257.webp",
+            "title": "SIN Guanacoa"
+          },
+          {
+            "imageUrl": "aventuraGallery/TRAVESIA-3(1).webp",
+            "title": "Travesia"
+          }
+        ],
+        "description": [
+          {
+            "text": "Os países megadiversos são aqueles que possuem a maior quantidade de biodiversidade do mundo. O México tem a honra de estar entre os 19 países que possuem essa classificação."
+          },
+          {
+            "text": "Essa diversidade de ecossistemas torna o México um dos melhores destinos para aqueles que buscam aventura e desejam experimentar adrenalina enquanto desfrutam da natureza."
+          },
+          {
+            "text": "Montanhas, rios, desertos, mares e muitos cenários naturais esperam por você de braços abertos."
+          },
+          {
+            "text": "Entre as aventuras que esperam por você estão: corredeiras, rapel, surf, ciclismo, mergulho, tirolesa em alta velocidade, caiaque, velejar, alpinismo e muito mais. Viva a aventura de sua vida no México!"
+          }
+        ]
+      },
+      {
+        "id": "sostenible",
+        "urlVideoTop": "https://www.youtube.com/embed/hEuneaZVBws?&autoplay=1",
+        "title": "Sustentabilidade",
+        "gallery": [
+          {
+            "imageUrl": "sostenibleGallery/BCS_tiburonballena.webp",
+            "title": "BCS Tubarão-baleia"
+          },
+          {
+            "imageUrl": "sostenibleGallery/CHIH_creel47-_1__11zon.webp",
+            "title": "CHIH Creel"
+          }
+        ],
+        "description": [
+          {
+            "text": "O turismo sustentável é um meio de aproveitar, conservar e preservar o patrimônio natural e cultural, em um ambiente que promova o desenvolvimento social, econômico, ambiental e cultural das comunidades receptoras, para atender às necessidades atuais de sua população, sem comprometer ou colocar em risco os recursos das gerações futuras."
+          },
+          {
+            "text": "Especificamente, refere-se a um turismo economicamente justo, socialmente inclusivo e ambientalmente responsável."
+          }
+        ]
+      },
+      {
+        "id": "bienestar",
+        "urlVideoTop": "https://www.youtube.com/embed/qmN6CifrUxU?&autoplay=1",
+        "title": "Bem-estar",
+        "gallery": [
+          {
+            "imageUrl": "bienestarGallery/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+            "title": "MOR Tepoztlán Hotel Dos Piedras"
+          }
+        ],
+        "description": [
+          {
+            "text": "O turismo de bem-estar, também conhecido como turismo de bem-estar, engloba atividades cujo objetivo principal é contribuir para a saúde física, mental ou espiritual do turista, por meio de atividades médicas e de bem-estar."
+          },
+          {
+            "text": "Receber uma massagem, tomar um banho de temazcal, fazer acupuntura, meditar, fazer aulas de yoga ou participar de um retiro espiritual são algumas das atividades que fazem parte do turismo de bem-estar. O México é líder no setor de turismo de bem-estar na América Latina e ocupa o sétimo lugar no ranking dos 20 principais países receptores desse tipo de turismo em todo o mundo."
+          },
+          {
+            "text": "Assim como a saúde, o turismo é um direito, e no México nos preocupamos em garantir que você desfrute plenamente de ambos. Aqui você encontrará diversos destinos e atividades para relaxar e cuidar da sua saúde."
+          }
+        ]
+      },
+      {
+        "id": "bodas",
+        "urlVideoTop": "https://www.youtube.com/embed/zXbpLh_guyY?&autoplay=1",
+        "title": "Casamentos",
+        "gallery": [
+          {
+            "imageUrl": "bodasGallery/Boda-tradicional-Olmeca-Veracruz.webp",
+            "title": "Casamento Tradicional Olmeca, Veracruz"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Nayarit.webp",
+            "title": "Cerimônia Wixarika, Nayarit"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Zacatecas.webp",
+            "title": "Cerimônia Wixarika, Zacatecas"
+          },
+          {
+            "imageUrl": "bodasGallery/La-novia-de-Puebla.webp",
+            "title": "A Noiva de Puebla"
+          },
+          {
+            "imageUrl": "bodasGallery/Novios-Queretaro-4.webp",
+            "title": "Noivos em Querétaro"
+          },
+          {
+            "imageUrl": "bodasGallery/Pareja-Queretaro-3.webp",
+            "title": "Casal em Querétaro"
+          }
+        ],
+        "description": [
+          {
+            "text": "O Turismo Romântico inclui viagens que casais e famílias fazem para celebrar momentos especiais em suas vidas, como renovação de votos, despedidas de solteiro e solteira, troca de anéis, lua de mel, aniversários de casamento, última viagem antes do nascimento do bebê (Baby Moon), segundas núpcias, viagem em família (Family Moon) e, principalmente, casamentos de destino e fugas de casamento."
+          },
+          {
+            "text": "O cenário preferido para casais são nossas lindas praias, mas as novas gerações também estão sendo atraídas por destinos coloniais e de aventura."
+          },
+          {
+            "text": "O México incorporou a população local no setor turístico, incluindo artesãos, designers, cozinheiras tradicionais, entre outros, buscando assim o desenvolvimento social com perspectiva de gênero e inclusão."
+          },
+          {
+            "text": "Convidamos você a se apaixonar ainda mais pelo México e se aventurar a vivê-lo de verdade."
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,61 @@
+.home-suscribe-ctn {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  position: relative;
+  background-image: url('../../assets/img/header/Fondorosa.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  padding-top: 60px;
+}
+
+.home-suscribe-image {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 19/6;
+  object-fit: cover;
+}
+
+.home-suscribe-ctn-suscribe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10%;
+  width: 100%;
+}
+
+.home-suscribe-suscribe-title {
+  font-size: var(--txt-h1-xl);
+  color: #fff;
+  margin: 0;
+}
+
+.home-suscribe-suscribe-description {
+  font-size: var(--txt-p-xl);
+  color: #fff;
+}
+
+.home-suscribe-ctn-form {
+  margin-top: 32px;
+}
+
+.home-searcher-suscribe-input {
+  height: 32px;
+  width: 420px;
+  border-style: none;
+  border-radius: 5px 0 0 5px;
+  padding: 6px 12px;
+  font-size: var(--txt-p-xl);
+}
+
+.home-searcher-suscribe-button {
+  height: 44px;
+  width: 120px;
+  border-style: none;
+  border-radius: 0 5px 5px 0;
+  padding: 6px 12px;
+  font-size: var(--txt-p-xl);
+  color: #fff;
+  background: var(--green);
+  cursor: pointer;
+}

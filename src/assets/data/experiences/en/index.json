@@ -1,0 +1,247 @@
+{
+    "experiences": [
+      {
+        "id": "rutas-gastronomicas",
+        "urlVideoTop": "https://www.youtube.com/embed/4nFgp8WdJI0?&autoplay=1",
+        "title": "Gastronomic Routes",
+        "gallery": [
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-CochinitaPibil-HaciendaOchil150.webp",
+            "title": "Cochinita Pibil"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Gastronomia-Vaporcitos-HaciendaOchil51.webp",
+            "title": "Vaporcitos (Tamales) de Quintana Roo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_acatlan_4_11zon.webp",
+            "title": "Elotes Acatlán, Hidalgo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/HGO_t2_actopan_356-_1__11zon.webp",
+            "title": "Taco de chinicuiles (gusanos de Maguey), Actopan, Hidalgo"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/MEX_avandaro_t__147_11zon.webp",
+            "title": "Torre de mariscos, Avándaro"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules5_11zon.webp",
+            "title": "Yucatecan Papadzules"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Papadzules_11zon.webp",
+            "title": "Yucatecan Papadzules"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712_11zon.webp",
+            "title": "Chile en nogada, Puebla"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Qroo_Lorenzillos_girls63-2_11zon.webp",
+            "title": "Del mar a su plato"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/TMPS_tampico_2_131_11zon.webp",
+            "title": "Platón de mariscos, Tampico Tamaulipas"
+          },
+          {
+            "imageUrl": "routesGastronomicGallery/Yucatan_Foto_13.webp",
+            "title": "Gastronomy of Yucatan"
+          }
+        ],
+        "description": [
+          {
+            "text": "Mexico is flavor, but also tradition and culture. The importance of gastronomy in our country is such that in 2010, UNESCO declared Mexican Traditional Cuisine an Intangible Cultural Heritage of Humanity. Mexican cuisine is a fundamental factor of cultural identity, social cohesion, and community development."
+          },
+          {
+            "text": "In our country, you can find an endless variety of unique ingredients and dishes that will make your visit unforgettable. We offer an immense gastronomic diversity with more than 584,000 restaurants, including two of the top 10 restaurants in the world, both located in Mexico City."
+          },
+          {
+            "text": "The gastronomic culture of Mexico is enormous. Flavors for all tastes, aromas and textures that will awaken your appetite. The best products that the sea, land, and sky have to offer, some of them with denomination of origin, will be served on your plate for you to enjoy the identity, creativity, and above all, hospitality."
+          },
+          {
+            "text": "Discover our gastronomic routes, carefully planned so you can savor the essence of Mexico."
+          }
+        ]
+      },
+      {
+        "id": "sol-playa",
+        "urlVideoTop": "https://www.youtube.com/embed/WVeHPYxFTUA?&autoplay=1",
+        "title": "Sun and Beach",
+        "gallery": [
+          {
+            "imageUrl": "solPlayaGallery/BCN_ensenada_7_11zon.webp",
+            "title": "BCN Ensenada"
+          },
+          {
+            "imageUrl": "solPlayaGallery/BCS_cabo_pulmo_26_11zon.webp",
+            "title": "BCS Cabo Pulmo"
+          },
+          {
+            "imageUrl": "solPlayaGallery/GRO_acapulco_1317_11zon.webp",
+            "title": "GRO Acapulco"
+          },
+          {
+            "imageUrl": "solPlayaGallery/JAL_careyes_11_11zon.webp",
+            "title": "Jalisco Careyes"
+          },
+          {
+            "imageUrl": "solPlayaGallery/OAX_costa_25_11zon.webp",
+            "title": "Oaxaca Costa Chica"
+          },
+          {
+            "imageUrl": "solPlayaGallery/Qroo_Hotel_catalonia63_2_11zon.webp",
+            "title": "Hotel Catalonia Riviera Maya"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SIN_las_glorias_25_11zon.webp",
+            "title": "Las Glorias, Sinaloa"
+          },
+          {
+            "imageUrl": "solPlayaGallery/SON_SanCarlos_Mirador-138_11zon.webp",
+            "title": "Sonora El mirador de San Carlos"
+          },
+          {
+            "imageUrl": "solPlayaGallery/TMPS_miramar_2_236_11zon.webp",
+            "title": "Miramar Tamaulipas"
+          },
+          {
+            "imageUrl": "solPlayaGallery/VER_catemaco104_11zon.webp",
+            "title": "Catemaco Veracruz"
+          }
+        ],
+        "description": [
+          {
+            "text": "Thanks to its privileged geographical location, Mexico is \"embraced\" by the Pacific Ocean, the Gulf of Mexico, and the Caribbean Sea, making our country a paradisiacal destination for tourists seeking sun and beach."
+          },
+          {
+            "text": "The over 11,000-kilometer-long coastline allows each beach destination to be unique in itself, with waters of different shades and sand of various textures."
+          },
+          {
+            "text": "The marine flora and fauna also make Mexico an attractive destination for visitors from all over the world. The Sea of Cortez, known as the \"aquarium of the world\"; the beautiful Bay of Acapulco, with one of the most privileged climates on the planet; and the beaches of Oaxaca with perfect waves for surfing, are just some examples of what can be enjoyed on the Mexican Pacific coast; while on the Gulf of Mexico side, we find the Costa Esmeralda in Veracruz, and of course, the turquoise blue of the Mexican Caribbean, with its white sand."
+          }
+        ]
+      },
+      {
+        "id": "aventura",
+        "urlVideoTop": "https://www.youtube.com/embed/MQNWS8yp__o?&autoplay=1",
+        "title": "Adventure",
+        "gallery": [
+          {
+            "imageUrl": "aventuraGallery/SIN_guanacoa_257.webp",
+            "title": "SIN Guanacoa"
+          },
+          {
+            "imageUrl": "aventuraGallery/TRAVESIA-3(1).webp",
+            "title": "Travesia"
+          }
+        ],
+        "description": [
+          {
+            "text": "Megadiverse countries are nations that harbor the greatest biodiversity in the world. Mexico has the honor of being among the 19 countries classified as such."
+          },
+          {
+            "text": "This diversity of ecosystems makes it one of the best destinations for adventurous souls looking to feel the adrenaline and enjoy nature."
+          },
+          {
+            "text": "Mountains, rivers, deserts, seas, and many natural landscapes await you with open arms."
+          },
+          {
+            "text": "Among the adventures that await you are: white-water rafting, rappelling, surfing, cycling, diving, ziplining at high speed, kayaking, sailing, mountaineering, and more. Experience the adventure of a lifetime in Mexico!"
+          }
+        ]
+      },
+      {
+        "id": "sostenible",
+        "urlVideoTop": "https://www.youtube.com/embed/hEuneaZVBws?&autoplay=1",
+        "title": "Sustainable",
+        "gallery": [
+          {
+            "imageUrl": "sostenibleGallery/BCS_tiburonballena.webp",
+            "title": "BCS Whale Shark"
+          },
+          {
+            "imageUrl": "sostenibleGallery/CHIH_creel47-_1__11zon.webp",
+            "title": "CHIH Creel"
+          }
+        ],
+        "description": [
+          {
+            "text": "Sustainable tourism is a means for the use, conservation, and preservation of natural and cultural heritage, in an environment that promotes the social, economic, environmental, and cultural development of host communities, to meet the current needs of their population without compromising or endangering the resources of future generations."
+          },
+          {
+            "text": "Specifically, it refers to economically fair, socially inclusive, and environmentally responsible tourism."
+          }
+        ]
+      },
+      {
+        "id": "bienestar",
+        "urlVideoTop": "https://www.youtube.com/embed/qmN6CifrUxU?&autoplay=1",
+        "title": "Wellness",
+        "gallery": [
+          {
+            "imageUrl": "bienestarGallery/MOR_Tepoztlan_HotelDosPiedras_LGBT-33.webp",
+            "title": "MOR Tepoztlan Hotel Dos Piedas"
+          }
+        ],
+        "description": [
+          {
+            "text": "Wellness tourism encompasses activities whose main motivation is to contribute to the physical, mental, or spiritual health of the tourist through medical and wellness activities."
+          },
+          {
+            "text": "Receiving a massage, taking a temazcal bath, practicing acupuncture, meditating, taking yoga classes, or attending a spiritual retreat are some of the activities included in wellness tourism. Mexico ranks first in this sector in Latin America and seventh in the top 20 countries receiving this type of tourism."
+          },
+          {
+            "text": "Just as health is a right, so is tourism, and in Mexico, we care that you fully enjoy both. Here you will find all kinds of destinations and activities where you can relax and take care of your health."
+          }
+        ]
+      },
+      {
+        "id": "bodas",
+        "urlVideoTop": "https://www.youtube.com/embed/zXbpLh_guyY?&autoplay=1",
+        "title": "Weddings",
+        "gallery": [
+          {
+            "imageUrl": "bodasGallery/Boda-tradicional-Olmeca-Veracruz.webp",
+            "title": "Traditional Olmec Wedding, Veracruz"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Nayarit.webp",
+            "title": "Wixarika Ceremony, Nayarit"
+          },
+          {
+            "imageUrl": "bodasGallery/Ceremonia-Wixarika-Zacatecas.webp",
+            "title": "Wixarika Ceremony, Zacatecas"
+          },
+          {
+            "imageUrl": "bodasGallery/La-novia-de-Puebla.webp",
+            "title": "The Bride from Puebla"
+          },
+          {
+            "imageUrl": "bodasGallery/Novios-Queretaro-4.webp",
+            "title": "Querétaro Newlyweds"
+          },
+          {
+            "imageUrl": "bodasGallery/Pareja-Queretaro-3.webp",
+            "title": "Querétaro Couple"
+          }
+        ],
+        "description": [
+          {
+            "text": "Romance tourism includes trips made by couples and families to celebrate special occasions in their lives, such as vow renewals, bachelor and bachelorette parties, engagements, honeymoons, anniversaries, last trip before the baby's birth (Baby Moon), second weddings, family trips (Family Moon), and especially destination weddings and runaway weddings."
+          },
+          {
+            "text": "Our beautiful beaches are the preferred setting for couples, and the new generations are attracted to colonial and adventure destinations."
+          },
+          {
+            "text": "Mexico incorporates local populations: artisans, designers, traditional cooks, among others, seeking social development with a gender perspective and inclusion."
+          },
+          {
+            "text": "We invite you to fall even more in love with Mexico and dare to experience it."
+          }
+        ]
+      }
+    ]
+  }
+  

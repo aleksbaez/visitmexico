@@ -1,0 +1,27 @@
+.destination-map-ctn {
+  padding: 42px 0;
+  background-image: url('../../assets/img/header/Fondoamarrillo.webp');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: top;
+}
+
+.destination-map-desc-ctn {
+  margin-top: 120px;
+  padding: 0 42px;
+}
+
+.destination-map-desc-text-title {
+  text-align: center;
+  font-size: var(--txt-h3-xl);
+}
+
+.destination-map-desc-text-desc {
+  list-style: none;
+}
+
+.destination-map-desc-text-desc-li {
+  font-size: var(--txt-p-xl);
+  margin: 18px 0;
+  text-align: justify;
+}
