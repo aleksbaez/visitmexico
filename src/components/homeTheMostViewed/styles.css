@@ -21,10 +21,10 @@
     "a a b c"
     "a a d e";
   gap: 20px;
-  padding: 190px 32px 32px 32px;
-  background-image: url('../../assets/img/header/liston-azul.webp');
+  padding: 140px 32px 32px 32px;
+  background-image: url('../../assets/img/header/liston-azul.webp'); 
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: 100% 65px;
   background-position: top;
 }
 

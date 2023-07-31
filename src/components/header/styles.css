@@ -217,3 +217,31 @@
     height: 94%;
   }
 }
+
+/*Cambios*/
+:root{
+  --txt-p-xl: 16px;
+}
+
+.header-ctn{
+  height: auto;
+}
+.header-ctn-logo{
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+.header-menu-ul-primary{
+  padding-top: 5px;
+  margin-top: 5px;
+  border-top: 1.5px solid #eee;
+}
+.header-menu-select{
+  height: auto;
+}
+.header-menu-select option{
+  padding: 5px;
+}
+.header-menu-li-primary:hover > a{
+  color: var(--purple);
+}

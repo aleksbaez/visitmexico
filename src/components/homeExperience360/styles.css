@@ -6,9 +6,10 @@
 
 .home-experience-360-title {
   text-align: center;
-  font-size: var(--txt-h1-xl);
+  font-size: var(--txt-title-xl);
   margin: 0;
   color: var(--purple);
+  font-family: 'Caveat', cursive;
 }
 
 .home-experience-360-subtitle {
