@@ -15,22 +15,22 @@ const HomeTheMostViewed = () => {
       },
       {
         name: "Bodas",
-        imgage: "MOR_xochicalco_t_156-_1__11zon.webp",
+        imgage: "Lo-mas_visitado_bodas.webp",
         dir: "/bodas"
       },
       {
         name: "Playas",
-        imgage: "Qroo_cancun_playa108.webp",
+        imgage: "Lo-mas_visitado_playas.webp",
         dir: "/playas"
       },
       {
         name: "Ruta Gastronómica",
-        imgage: "MOR-Tepoztlan-ExConventoNatividad-PuebloMagico-GerardoJuarez-4858_2-_1__11zon.webp",
+        imgage: "Lo-mas_visitado_gastronomia.webp",
         dir: "/ruta-gastronómica"
       },
       {
         name: "Pueblos Mágicos",
-        imgage: "PUEBLOS-MAGICOS.webp",
+        imgage: "Lo-mas_visitado_pueblomagico.webp",
         dir: "/pueblos-magicos"
       }
     ]
