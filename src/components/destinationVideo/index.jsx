@@ -1,12 +1,15 @@
-import React from 'react';
+import React ,{useContext} from 'react';
 import { useLocation } from 'react-router-dom';
-import destinations from '../../assets/data/destinations/index.json';
+//import destinations from '../../assets/data/destinations/index.json';
 import './styles.css';
+import { langContext } from '../../context/langContext';
+import { FormattedMessage } from 'react-intl';
 
 const DestinationVideo = () => {
+  const idioma2=useContext(langContext);
   const location = useLocation();
   const stateId = location?.pathname?.split('/')[2];
-  const getStateInfo = destinations?.states?.filter(state => state.id === stateId);
+  const getStateInfo = idioma2.messages.destinations?.states?.filter(state => state.id === stateId);
   const data = getStateInfo?.[0];
 
   return (

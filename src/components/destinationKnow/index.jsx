@@ -1,18 +1,23 @@
-import React, { useState } from 'react';
+import React, { useState,useContext } from 'react';
 import { useLocation } from 'react-router-dom';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-import destinations from '../../assets/data/destinations/index.json';
+//import destinations from '../../assets/data/destinations/index.json';
 import './styles.css';
+import { langContext } from '../../context/langContext';
+import { FormattedMessage } from 'react-intl';
 
 const DestinationKnown = () => {
+  const idioma2=useContext(langContext);
   const location = useLocation();
   const stateId = location?.pathname?.split('/')[2];
-  const getStateInfo = destinations?.states?.filter(state => state.id === stateId);
+  const getStateInfo = idioma2.messages.destinations?.states?.filter(state => state.id === stateId);
   const data = getStateInfo?.[0];
 
   return (
     <section className="destination-known-ctn">
-      <h2 className="destination-known-title">{data?.titleTop}</h2>
+      <h2 className="destination-known-title">
+        <FormattedMessage id={data?.titleTop}  />
+        </h2>
       <div className="destination-known-ctn-content">
         <div className="destination-known-ctn-img">
         {getStateInfo?.map((data, index) => (
