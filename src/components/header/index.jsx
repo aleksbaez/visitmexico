@@ -170,8 +170,15 @@ const idioma=useContext(langContext);
                 </Link>
             </li>
             <select className="header-menu-select" onChange={changeLenguage}>
+            <option  key="de" value="de">Aleman</option>
+            <option  key="cn" value="cn">Chino</option>
               <option  key="sp" value="sp">Español</option>
+              <option  key="fr" value="fr">Frances</option>
               <option  key="en" value="en">Ingles</option>
+              <option  key="it" value="it">Italiano</option>
+              <option  key="jp" value="jp">Japones</option>
+              <option  key="pt" value="pt">Portugues</option>
+              
             </select>
           </ul>
         </div>
